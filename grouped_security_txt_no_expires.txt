@@ -1,0 +1,2889 @@
+https://1q.dk/.well-known/security.txt
+https://1stein.dk/.well-known/security.txt
+https://206banden.dk/.well-known/security.txt
+https://21781202.dk/.well-known/security.txt
+https://3pac.dk/.well-known/security.txt
+https://4v.dk/.well-known/security.txt
+https://5054.dk/.well-known/security.txt
+https://5stein.dk/.well-known/security.txt
+https://6862.dk/.well-known/security.txt
+https://744.dk/.well-known/security.txt
+https://aarsdala.dk/.well-known/security.txt
+https://abernesplanet.dk/.well-known/security.txt
+https://achtonschmidt.dk/.well-known/security.txt
+https://adroot.dk/.well-known/security.txt
+https://adult-host.dk/.well-known/security.txt
+https://adult-hosting.dk/.well-known/security.txt
+https://alba.dk/.well-known/security.txt
+https://allanroendrup.dk/.well-known/security.txt
+https://ammitzbo.dk/.well-known/security.txt
+https://amradio.dk/.well-known/security.txt
+https://amsterdamguide.dk/.well-known/security.txt
+https://andersdamkjaer.dk/.well-known/security.txt
+https://andersen1978.dk/.well-known/security.txt
+https://andersh.dk/.well-known/security.txt
+https://anemonegaarden.dk/.well-known/security.txt
+https://annekraghpedersen.dk/.well-known/security.txt
+https://aprilsol.dk/.well-known/security.txt
+https://arkeliet.dk/.well-known/security.txt
+https://arridan.dk/.well-known/security.txt
+https://arroz.dk/.well-known/security.txt
+https://asgerkhan.dk/.well-known/security.txt
+https://asgerkhanna.dk/.well-known/security.txt
+https://askeroi.dk/.well-known/security.txt
+https://aw77.dk/.well-known/security.txt
+https://b-jakobsen.dk/.well-known/security.txt
+https://badpiggy.dk/.well-known/security.txt
+https://baekmark.dk/.well-known/security.txt
+https://baklundgaard.dk/.well-known/security.txt
+https://bamsehjem.dk/.well-known/security.txt
+https://banangang.dk/.well-known/security.txt
+https://bangsbro.dk/.well-known/security.txt
+https://barcelonaferie.dk/.well-known/security.txt
+https://barcelonaflat.dk/.well-known/security.txt
+https://barcelonaflats.dk/.well-known/security.txt
+https://bellebryg.dk/.well-known/security.txt
+https://bibse.dk/.well-known/security.txt
+https://bjergmastrup.dk/.well-known/security.txt
+https://blue52.dk/.well-known/security.txt
+https://blumse.dk/.well-known/security.txt
+https://bmas.dk/.well-known/security.txt
+https://bondeservice.dk/.well-known/security.txt
+https://brick4love.dk/.well-known/security.txt
+https://briefcase.dk/.well-known/security.txt
+https://brinckfyn.dk/.well-known/security.txt
+https://brondgaard.dk/.well-known/security.txt
+https://buhlmadsen.dk/.well-known/security.txt
+https://business50.dk/.well-known/security.txt
+https://bymami.dk/.well-known/security.txt
+https://cadan.dk/.well-known/security.txt
+https://cadnmouse.dk/.well-known/security.txt
+https://ccms.dk/.well-known/security.txt
+https://centwear.dk/.well-known/security.txt
+https://chatty.dk/.well-known/security.txt
+https://chimschubert.dk/.well-known/security.txt
+https://chrweinreich.dk/.well-known/security.txt
+https://cinco.dk/.well-known/security.txt
+https://citysyd.dk/.well-known/security.txt
+https://clausens.dk/.well-known/security.txt
+https://computrade.dk/.well-known/security.txt
+https://cpoj.dk/.well-known/security.txt
+https://creavon.dk/.well-known/security.txt
+https://creonix.dk/.well-known/security.txt
+https://cs-nics.dk/.well-known/security.txt
+https://cyperspace.dk/.well-known/security.txt
+https://cyrus.dk/.well-known/security.txt
+https://dahldiving.dk/.well-known/security.txt
+https://danmark-loge.dk/.well-known/security.txt
+https://dansk-pc-support.dk/.well-known/security.txt
+https://datalab.dk/.well-known/security.txt
+https://dc1.dk/.well-known/security.txt
+https://dennismortensen.dk/.well-known/security.txt
+https://denrigtigevarmepumpe.dk/.well-known/security.txt
+https://design-r.dk/.well-known/security.txt
+https://design-studiet.dk/.well-known/security.txt
+https://digitalfuture.dk/.well-known/security.txt
+https://dinosvenningsen.dk/.well-known/security.txt
+https://divine.dk/.well-known/security.txt
+https://diwo.dk/.well-known/security.txt
+https://dmffynsstift.dk/.well-known/security.txt
+https://doktorvaenget.dk/.well-known/security.txt
+https://doretheschmidt.dk/.well-known/security.txt
+https://dotcoders.dk/.well-known/security.txt
+https://doubleyou.dk/.well-known/security.txt
+https://dreamgarage.dk/.well-known/security.txt
+https://drmdanmark.dk/.well-known/security.txt
+https://drvp.dk/.well-known/security.txt
+https://dyrendom.dk/.well-known/security.txt
+https://eaviola.dk/.well-known/security.txt
+https://ecalc.dk/.well-known/security.txt
+https://egelynge.dk/.well-known/security.txt
+https://eholdgaard.dk/.well-known/security.txt
+https://ehund.dk/.well-known/security.txt
+https://einreich.dk/.well-known/security.txt
+https://ekelut.dk/.well-known/security.txt
+https://ekonsulent.dk/.well-known/security.txt
+https://elefantpost.dk/.well-known/security.txt
+https://elektrofritz.dk/.well-known/security.txt
+https://elneff.dk/.well-known/security.txt
+https://elskerski.dk/.well-known/security.txt
+https://emilievedel.dk/.well-known/security.txt
+https://engla.dk/.well-known/security.txt
+https://essos.dk/.well-known/security.txt
+https://fam-braad.dk/.well-known/security.txt
+https://fam-hoejgaard.dk/.well-known/security.txt
+https://fam-hyldahl.dk/.well-known/security.txt
+https://fam-laursen.dk/.well-known/security.txt
+https://fambrinck.dk/.well-known/security.txt
+https://farumvej.dk/.well-known/security.txt
+https://fasd.dk/.well-known/security.txt
+https://fersling.dk/.well-known/security.txt
+https://firstbooking.dk/.well-known/security.txt
+https://fiskekrogen.dk/.well-known/security.txt
+https://fitforsurvival.dk/.well-known/security.txt
+https://fizban.dk/.well-known/security.txt
+https://fjordbaklarsen.dk/.well-known/security.txt
+https://fjordenrundt100.dk/.well-known/security.txt
+https://fleno.dk/.well-known/security.txt
+https://formark.dk/.well-known/security.txt
+https://frankpoulsen.dk/.well-known/security.txt
+https://freakz.dk/.well-known/security.txt
+https://frederikshavn1717.dk/.well-known/security.txt
+https://fricke.dk/.well-known/security.txt
+https://friis-el.dk/.well-known/security.txt
+https://friis-entreprise.dk/.well-known/security.txt
+https://frikonsult.dk/.well-known/security.txt
+https://ful.dk/.well-known/security.txt
+https://funchy.dk/.well-known/security.txt
+https://fv82.dk/.well-known/security.txt
+https://gamlemoellegaard.dk/.well-known/security.txt
+https://georgthomassen.dk/.well-known/security.txt
+https://gholst.dk/.well-known/security.txt
+https://gladsheim.dk/.well-known/security.txt
+https://gmbg.dk/.well-known/security.txt
+https://gohlke.dk/.well-known/security.txt
+https://goodieshop.dk/.well-known/security.txt
+https://gravdam.dk/.well-known/security.txt
+https://greenink.dk/.well-known/security.txt
+https://greenstage.dk/.well-known/security.txt
+https://gregoire.dk/.well-known/security.txt
+https://grisling1984.dk/.well-known/security.txt
+https://grundtlarsen.dk/.well-known/security.txt
+https://hansens-it.dk/.well-known/security.txt
+https://hansensit.dk/.well-known/security.txt
+https://hansflugt.dk/.well-known/security.txt
+https://harbourtrekking.dk/.well-known/security.txt
+https://harja.dk/.well-known/security.txt
+https://harmsen-als.dk/.well-known/security.txt
+https://hartoe.dk/.well-known/security.txt
+https://hathor.dk/.well-known/security.txt
+https://haunstrup-nielsen.dk/.well-known/security.txt
+https://havetraktor.dk/.well-known/security.txt
+https://hebo-wines.dk/.well-known/security.txt
+https://hedam.dk/.well-known/security.txt
+https://hedwig.dk/.well-known/security.txt
+https://hele-familien.dk/.well-known/security.txt
+https://helgesoe.dk/.well-known/security.txt
+https://heliott.dk/.well-known/security.txt
+https://helwig74.dk/.well-known/security.txt
+https://hemm.dk/.well-known/security.txt
+https://henningstaun.dk/.well-known/security.txt
+https://henriksode.dk/.well-known/security.txt
+https://hh4.dk/.well-known/security.txt
+https://hjernecenter.dk/.well-known/security.txt
+https://hogstad.dk/.well-known/security.txt
+https://holmegaard-madsen.dk/.well-known/security.txt
+https://holsting.dk/.well-known/security.txt
+https://hovgaardsparken.dk/.well-known/security.txt
+https://hp-finance.dk/.well-known/security.txt
+https://hpnielsen.dk/.well-known/security.txt
+https://humbuck.dk/.well-known/security.txt
+https://hvitved.dk/.well-known/security.txt
+https://hylkest-vand.dk/.well-known/security.txt
+https://hyrland.dk/.well-known/security.txt
+https://icholm.dk/.well-known/security.txt
+https://imts.dk/.well-known/security.txt
+https://instrukser.dk/.well-known/security.txt
+https://ipoulsen.dk/.well-known/security.txt
+https://iq-computing.dk/.well-known/security.txt
+https://irfan.dk/.well-known/security.txt
+https://irvings.dk/.well-known/security.txt
+https://it-host.dk/.well-known/security.txt
+https://j-r.dk/.well-known/security.txt
+https://jakobdamkjaer.dk/.well-known/security.txt
+https://jandersen.dk/.well-known/security.txt
+https://jannimo.dk/.well-known/security.txt
+https://jbraad.dk/.well-known/security.txt
+https://jeme.dk/.well-known/security.txt
+https://jerram.dk/.well-known/security.txt
+https://jesmar.dk/.well-known/security.txt
+https://jetdanmark.dk/.well-known/security.txt
+https://jetdanmarktest.dk/.well-known/security.txt
+https://jlundberg.dk/.well-known/security.txt
+https://joachimschubert.dk/.well-known/security.txt
+https://job-done.dk/.well-known/security.txt
+https://joenne.dk/.well-known/security.txt
+https://jogib.dk/.well-known/security.txt
+https://johnnykoch.dk/.well-known/security.txt
+https://jonaskroyer.dk/.well-known/security.txt
+https://just-r.dk/.well-known/security.txt
+https://just-rasmussen.dk/.well-known/security.txt
+https://justemail.dk/.well-known/security.txt
+https://justtwoguys.dk/.well-known/security.txt
+https://kalundborgradio.dk/.well-known/security.txt
+https://kamukrosenfalckstaack.dk/.well-known/security.txt
+https://karlsmart.dk/.well-known/security.txt
+https://kastruphaveby.dk/.well-known/security.txt
+https://kastrupkrogen.dk/.well-known/security.txt
+https://khab.dk/.well-known/security.txt
+https://khana.dk/.well-known/security.txt
+https://kimilise.dk/.well-known/security.txt
+https://kimr-dk.dk/.well-known/security.txt
+https://kimvig.dk/.well-known/security.txt
+https://kirsebaerhaven1-20.dk/.well-known/security.txt
+https://kjulharbo.dk/.well-known/security.txt
+https://kmohr.dk/.well-known/security.txt
+https://knapper.dk/.well-known/security.txt
+https://kochhansen.dk/.well-known/security.txt
+https://komnu.dk/.well-known/security.txt
+https://kontorholstebro.dk/.well-known/security.txt
+https://krai.dk/.well-known/security.txt
+https://kraiberg.dk/.well-known/security.txt
+https://krbg.dk/.well-known/security.txt
+https://kris-10-sen.dk/.well-known/security.txt
+https://krogh-moe.dk/.well-known/security.txt
+https://kroghgrafisk.dk/.well-known/security.txt
+https://krudttarnet.dk/.well-known/security.txt
+https://ksejdelin.dk/.well-known/security.txt
+https://kufkofler.dk/.well-known/security.txt
+https://kvindevisdom.dk/.well-known/security.txt
+https://kysten.dk/.well-known/security.txt
+https://langemose.dk/.well-known/security.txt
+https://lantarki.dk/.well-known/security.txt
+https://larskaae.dk/.well-known/security.txt
+https://larssommer.dk/.well-known/security.txt
+https://latterhanne.dk/.well-known/security.txt
+https://laursennet.dk/.well-known/security.txt
+https://lavdalinvest.dk/.well-known/security.txt
+https://le-thor.dk/.well-known/security.txt
+https://leanderj.dk/.well-known/security.txt
+https://lejo.dk/.well-known/security.txt
+https://lennarts.dk/.well-known/security.txt
+https://lenskjoldknudsen.dk/.well-known/security.txt
+https://lermester.dk/.well-known/security.txt
+https://liex.dk/.well-known/security.txt
+https://liljens.dk/.well-known/security.txt
+https://lilleravnshoj.dk/.well-known/security.txt
+https://linderholm.dk/.well-known/security.txt
+https://lindum-andersen.dk/.well-known/security.txt
+https://lonesaabye.dk/.well-known/security.txt
+https://lyngens-auto.dk/.well-known/security.txt
+https://lystfiskerportalen.dk/.well-known/security.txt
+https://madbogen.dk/.well-known/security.txt
+https://maiden.dk/.well-known/security.txt
+https://mailbox.dk/.well-known/security.txt
+https://malouhansen.dk/.well-known/security.txt
+https://manelli.dk/.well-known/security.txt
+https://margrethehaab.dk/.well-known/security.txt
+https://martyr.dk/.well-known/security.txt
+https://massman.dk/.well-known/security.txt
+https://mbm-holding.dk/.well-known/security.txt
+https://mbm-it.dk/.well-known/security.txt
+https://mbmit.dk/.well-known/security.txt
+https://mclemme.dk/.well-known/security.txt
+https://meetpeople.dk/.well-known/security.txt
+https://meliora.dk/.well-known/security.txt
+https://mercatoc.dk/.well-known/security.txt
+https://merrild-thuesen.dk/.well-known/security.txt
+https://mi-genes.dk/.well-known/security.txt
+https://miaamaliemai.dk/.well-known/security.txt
+https://microbee.dk/.well-known/security.txt
+https://mikipedia.dk/.well-known/security.txt
+https://mikkelszlavik.dk/.well-known/security.txt
+https://minbrevdue.dk/.well-known/security.txt
+https://mindscape-aerospace.dk/.well-known/security.txt
+https://minnaturlegeplads.dk/.well-known/security.txt
+https://minrettighed.dk/.well-known/security.txt
+https://misskat.dk/.well-known/security.txt
+https://mm-hosting.dk/.well-known/security.txt
+https://mm-itservice.dk/.well-known/security.txt
+https://mm-webdesign.dk/.well-known/security.txt
+https://mmdc.dk/.well-known/security.txt
+https://mmdev.dk/.well-known/security.txt
+https://mmwebdesign.dk/.well-known/security.txt
+https://mortenbn.dk/.well-known/security.txt
+https://mouritsens.dk/.well-known/security.txt
+https://movs.dk/.well-known/security.txt
+https://munch-it.dk/.well-known/security.txt
+https://munchnet.dk/.well-known/security.txt
+https://munckjepsen.dk/.well-known/security.txt
+https://nakedcelebs.dk/.well-known/security.txt
+https://nchelth.dk/.well-known/security.txt
+https://nerdzone.dk/.well-known/security.txt
+https://net2trust.dk/.well-known/security.txt
+https://nicework.dk/.well-known/security.txt
+https://nielsorla.dk/.well-known/security.txt
+https://nipehus.dk/.well-known/security.txt
+https://nixweb.dk/.well-known/security.txt
+https://nkwerk.dk/.well-known/security.txt
+https://ntemail.dk/.well-known/security.txt
+https://ntreffeld.dk/.well-known/security.txt
+https://nyby.dk/.well-known/security.txt
+https://obeldorff.dk/.well-known/security.txt
+https://ocmail.dk/.well-known/security.txt
+https://odc.dk/.well-known/security.txt
+https://odden-spisehus.dk/.well-known/security.txt
+https://odensekajak.dk/.well-known/security.txt
+https://oktoberlogen.dk/.well-known/security.txt
+https://oldboyz.dk/.well-known/security.txt
+https://oogb.dk/.well-known/security.txt
+https://otr.dk/.well-known/security.txt
+https://otvald.dk/.well-known/security.txt
+https://oz1akn.dk/.well-known/security.txt
+https://oz1dis.dk/.well-known/security.txt
+https://padel-bat.dk/.well-known/security.txt
+https://pc1.dk/.well-known/security.txt
+https://pcjt.dk/.well-known/security.txt
+https://pcq.dk/.well-known/security.txt
+https://pdfx.dk/.well-known/security.txt
+https://pentagun.dk/.well-known/security.txt
+https://penthouse-spanien.dk/.well-known/security.txt
+https://penthousespanien.dk/.well-known/security.txt
+https://petardo.dk/.well-known/security.txt
+https://photom.dk/.well-known/security.txt
+https://pkamuk.dk/.well-known/security.txt
+https://ploug-slaegten.dk/.well-known/security.txt
+https://poo.dk/.well-known/security.txt
+https://por.dk/.well-known/security.txt
+https://praksisforum.dk/.well-known/security.txt
+https://psyke-sex.dk/.well-known/security.txt
+https://quq.dk/.well-known/security.txt
+https://raevehoejen.dk/.well-known/security.txt
+https://ramsdahl.dk/.well-known/security.txt
+https://randewijk.dk/.well-known/security.txt
+https://raskit.dk/.well-known/security.txt
+https://rationeltfolkeparti.dk/.well-known/security.txt
+https://ringtilpeter.dk/.well-known/security.txt
+https://roejleskov.dk/.well-known/security.txt
+https://rtu.dk/.well-known/security.txt
+https://rude-andersen.dk/.well-known/security.txt
+https://rudiger.dk/.well-known/security.txt
+https://rudip.dk/.well-known/security.txt
+https://runeterkel.dk/.well-known/security.txt
+https://rydall.dk/.well-known/security.txt
+https://ryeshede.dk/.well-known/security.txt
+https://rystho.dk/.well-known/security.txt
+https://s-jensen.dk/.well-known/security.txt
+https://sadhana.dk/.well-known/security.txt
+https://saffron.dk/.well-known/security.txt
+https://samir.dk/.well-known/security.txt
+https://schroders.dk/.well-known/security.txt
+https://schusters.dk/.well-known/security.txt
+https://scotwins.dk/.well-known/security.txt
+https://segel.dk/.well-known/security.txt
+https://sejlerindex.dk/.well-known/security.txt
+https://sermilik.dk/.well-known/security.txt
+https://sessileoaks.dk/.well-known/security.txt
+https://sexfinder.dk/.well-known/security.txt
+https://sigersted.dk/.well-known/security.txt
+https://sjaelsgaard.dk/.well-known/security.txt
+https://skaletz.dk/.well-known/security.txt
+https://skovlyistouby.dk/.well-known/security.txt
+https://slagelseif.dk/.well-known/security.txt
+https://slesvigeren.dk/.well-known/security.txt
+https://slotnielsen.dk/.well-known/security.txt
+https://smutvejen.dk/.well-known/security.txt
+https://soejlen.dk/.well-known/security.txt
+https://sommerhusguide.dk/.well-known/security.txt
+https://sonnehelms.dk/.well-known/security.txt
+https://specineers.dk/.well-known/security.txt
+https://staldnuka.dk/.well-known/security.txt
+https://starupengvej.dk/.well-known/security.txt
+https://steenvalentin.dk/.well-known/security.txt
+https://steveo.dk/.well-known/security.txt
+https://stormnielsens.dk/.well-known/security.txt
+https://superungerne.dk/.well-known/security.txt
+https://svendborgvej.dk/.well-known/security.txt
+https://system-aid.dk/.well-known/security.txt
+https://systemkritiker.dk/.well-known/security.txt
+https://szlavik.dk/.well-known/security.txt
+https://tby.dk/.well-known/security.txt
+https://teamkake.dk/.well-known/security.txt
+https://teamsos.dk/.well-known/security.txt
+https://techcell.dk/.well-known/security.txt
+https://technocell.dk/.well-known/security.txt
+https://telecom-consult.dk/.well-known/security.txt
+https://teletown.dk/.well-known/security.txt
+https://the-funch.dk/.well-known/security.txt
+https://thojoe.dk/.well-known/security.txt
+https://thomasloenbaek.dk/.well-known/security.txt
+https://thomaspors.dk/.well-known/security.txt
+https://thorbjoernsen.dk/.well-known/security.txt
+https://thorsensdaekservice.dk/.well-known/security.txt
+https://tilbudsverden.dk/.well-known/security.txt
+https://tjekpost.dk/.well-known/security.txt
+https://tligu.dk/.well-known/security.txt
+https://tomrermesterperandersen.dk/.well-known/security.txt
+https://tordenskjold.dk/.well-known/security.txt
+https://tostrupmadhus.dk/.well-known/security.txt
+https://tovlig.dk/.well-known/security.txt
+https://trampenbjerg.dk/.well-known/security.txt
+https://travelagent.dk/.well-known/security.txt
+https://trepac.dk/.well-known/security.txt
+https://trioen.dk/.well-known/security.txt
+https://trojavej.dk/.well-known/security.txt
+https://trzepacz.dk/.well-known/security.txt
+https://uavfyn.dk/.well-known/security.txt
+https://uglyduckling.dk/.well-known/security.txt
+https://ulfeldt.dk/.well-known/security.txt
+https://usaferien.dk/.well-known/security.txt
+https://utedo.dk/.well-known/security.txt
+https://v-hk.dk/.well-known/security.txt
+https://valdgren-data.dk/.well-known/security.txt
+https://valdgren.dk/.well-known/security.txt
+https://valentin-holding.dk/.well-known/security.txt
+https://vandborgnet.dk/.well-known/security.txt
+https://veile-frier.dk/.well-known/security.txt
+https://velling-laursen.dk/.well-known/security.txt
+https://venda.dk/.well-known/security.txt
+https://verba-lingua.dk/.well-known/security.txt
+https://verdensnavle.dk/.well-known/security.txt
+https://veronavej.dk/.well-known/security.txt
+https://vesterbaek.dk/.well-known/security.txt
+https://vestergade22.dk/.well-known/security.txt
+https://vigrasmussen.dk/.well-known/security.txt
+https://vilsbaek.dk/.well-known/security.txt
+https://vinaa.dk/.well-known/security.txt
+https://vingaardeniviborg.dk/.well-known/security.txt
+https://vision50x70.dk/.well-known/security.txt
+https://vkconsult.dk/.well-known/security.txt
+https://vmenhancer.dk/.well-known/security.txt
+https://vuchiri.dk/.well-known/security.txt
+https://walkerjunker.dk/.well-known/security.txt
+https://webcamsexx.dk/.well-known/security.txt
+https://webshit.dk/.well-known/security.txt
+https://weno.dk/.well-known/security.txt
+https://wowing.dk/.well-known/security.txt
+https://x-ok.dk/.well-known/security.txt
+https://xn--allanrndrup-lgb.dk/.well-known/security.txt
+https://xn--bjrneboe-64a.dk/.well-known/security.txt
+https://xn--doktorvnget-g9a.dk/.well-known/security.txt
+https://xn--fartblle-94a.dk/.well-known/security.txt
+https://xn--fartbller-p8a.dk/.well-known/security.txt
+https://xn--gamlemllegrd-2cb5x.dk/.well-known/security.txt
+https://xn--krudttrnet-65a.dk/.well-known/security.txt
+https://xn--lnbk-xoa9h.dk/.well-known/security.txt
+https://xn--stjysk-pc-support-z0b.dk/.well-known/security.txt
+https://xn--svejgrd-ixa.dk/.well-known/security.txt
+https://xn--tmrermesterperandersen-5ic.dk/.well-known/security.txt
+https://xn--vesterbk-p0a.dk/.well-known/security.txt
+https://xtech.dk/.well-known/security.txt
+https://ybl.dk/.well-known/security.txt
+https://youngbrass.dk/.well-known/security.txt
+https://zivalee.dk/.well-known/security.txt
+
+Contact: mailto:info@hostingdk.net
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://1mmper100y.dk/.well-known/security.txt
+https://9april1940.dk/.well-known/security.txt
+https://aarhus-bss.dk/.well-known/security.txt
+https://aarhusbotaniskehave.dk/.well-known/security.txt
+https://aarhusbss.dk/.well-known/security.txt
+https://afmagt.dk/.well-known/security.txt
+https://agrivolt.dk/.well-known/security.txt
+https://agse.dk/.well-known/security.txt
+https://akademisk-dannelse.dk/.well-known/security.txt
+https://akademiskdannelse.dk/.well-known/security.txt
+https://aktuelnaturvidenskab.dk/.well-known/security.txt
+https://aktuelviden.dk/.well-known/security.txt
+https://alfam.dk/.well-known/security.txt
+https://almass.dk/.well-known/security.txt
+https://annatto.dk/.well-known/security.txt
+https://ant-manure.dk/.well-known/security.txt
+https://aphandra.dk/.well-known/security.txt
+https://artemisiaprojekt.dk/.well-known/security.txt
+https://asb.dk/.well-known/security.txt
+https://astronomibloggen.dk/.well-known/security.txt
+https://au.dk/.well-known/security.txt
+https://aufoodscience.dk/.well-known/security.txt
+https://auherning.dk/.well-known/security.txt
+https://authorsinaarhus.dk/.well-known/security.txt
+https://backtobusiness.dk/.well-known/security.txt
+https://behandlingsportalen.dk/.well-known/security.txt
+https://beisa.dk/.well-known/security.txt
+https://betterbarleybynbt.dk/.well-known/security.txt
+https://biforskning.dk/.well-known/security.txt
+https://biochange.dk/.well-known/security.txt
+https://birc.dk/.well-known/security.txt
+https://borneforsk.dk/.well-known/security.txt
+https://bsu-sdr.dk/.well-known/security.txt
+https://businessfactory.dk/.well-known/security.txt
+https://byhistorie.dk/.well-known/security.txt
+https://c14.dk/.well-known/security.txt
+https://categorization.dk/.well-known/security.txt
+https://cavi.dk/.well-known/security.txt
+https://censorerne.dk/.well-known/security.txt
+https://censorforeningen.dk/.well-known/security.txt
+https://cfem.dk/.well-known/security.txt
+https://cfin.dk/.well-known/security.txt
+https://circularbioeconomydays2019.dk/.well-known/security.txt
+https://corolog.dk/.well-known/security.txt
+https://creativetastebuds.dk/.well-known/security.txt
+https://cser.dk/.well-known/security.txt
+https://csgb.dk/.well-known/security.txt
+https://culturalchina.dk/.well-known/security.txt
+https://dafrus.dk/.well-known/security.txt
+https://dandrite.dk/.well-known/security.txt
+https://danishcardiovascularacademy.dk/.well-known/security.txt
+https://danishhorticulture.dk/.well-known/security.txt
+https://danishinnovationindex.dk/.well-known/security.txt
+https://danmarksplaneten.dk/.well-known/security.txt
+https://danseed.dk/.well-known/security.txt
+https://dansk-juridisk-forskerskole.dk/.well-known/security.txt
+https://danskhavebrug.dk/.well-known/security.txt
+https://danskinnovationsindex.dk/.well-known/security.txt
+https://danskludomanikomite.dk/.well-known/security.txt
+https://danskokonometriskselskab.dk/.well-known/security.txt
+https://danveg.dk/.well-known/security.txt
+https://darcof.dk/.well-known/security.txt
+https://darwinarkivet.dk/.well-known/security.txt
+https://dcacademy.dk/.well-known/security.txt
+https://dfort.dk/.well-known/security.txt
+https://dighumlab.dk/.well-known/security.txt
+https://digitalcurriculum.dk/.well-known/security.txt
+https://diplomiledelse.dk/.well-known/security.txt
+https://doctoralexcellence.dk/.well-known/security.txt
+https://dpor.dk/.well-known/security.txt
+https://dpu.dk/.well-known/security.txt
+https://ducg.dk/.well-known/security.txt
+https://dynamicplantgrowth.dk/.well-known/security.txt
+https://ecml.dk/.well-known/security.txt
+https://ecowel.dk/.well-known/security.txt
+https://elitemodulet.dk/.well-known/security.txt
+https://evolution.dk/.well-known/security.txt
+https://exbus.dk/.well-known/security.txt
+https://excellence2012.dk/.well-known/security.txt
+https://executive-insights.dk/.well-known/security.txt
+https://fabagenome.dk/.well-known/security.txt
+https://feas.dk/.well-known/security.txt
+https://fetotox.dk/.well-known/security.txt
+https://fiaf.dk/.well-known/security.txt
+https://foejo.dk/.well-known/security.txt
+https://foodmetabolomics.dk/.well-known/security.txt
+https://forskerforendag.dk/.well-known/security.txt
+https://fosforkortlaegning.dk/.well-known/security.txt
+https://froeforskning.dk/.well-known/security.txt
+https://fruitgrowth.dk/.well-known/security.txt
+https://funktionelleanfald.dk/.well-known/security.txt
+https://funktionellelidelser.dk/.well-known/security.txt
+https://fysikbasen.dk/.well-known/security.txt
+https://fysikshow.dk/.well-known/security.txt
+https://g-e-m.dk/.well-known/security.txt
+https://generationglobal.dk/.well-known/security.txt
+https://genvejtilnyviden.dk/.well-known/security.txt
+https://geoinstrumentbank.dk/.well-known/security.txt
+https://gluds-legat.dk/.well-known/security.txt
+https://gourmetroots.dk/.well-known/security.txt
+https://grasstools.dk/.well-known/security.txt
+https://groenstevia.dk/.well-known/security.txt
+https://grundtvigcenteret.dk/.well-known/security.txt
+https://guideoekoplanteavl.dk/.well-known/security.txt
+https://herbariet.dk/.well-known/security.txt
+https://hha.dk/.well-known/security.txt
+https://hvadernano.dk/.well-known/security.txt
+https://hvorkommerdufra.dk/.well-known/security.txt
+https://icoa.dk/.well-known/security.txt
+https://icrofs.dk/.well-known/security.txt
+https://ifood.dk/.well-known/security.txt
+https://iha.dk/.well-known/security.txt
+https://inano.dk/.well-known/security.txt
+https://innox.dk/.well-known/security.txt
+https://innoxhealthcare.dk/.well-known/security.txt
+https://ipsych.dk/.well-known/security.txt
+https://iseq.dk/.well-known/security.txt
+https://johannesvjensen.dk/.well-known/security.txt
+https://jurforsk.dk/.well-known/security.txt
+https://juridiskeforskerskole.dk/.well-known/security.txt
+https://kaalogrodfrugter.dk/.well-known/security.txt
+https://kemishow.dk/.well-known/security.txt
+https://kenddinkropspolitik.dk/.well-known/security.txt
+https://kenddithav.dk/.well-known/security.txt
+https://kirkeret.dk/.well-known/security.txt
+https://konsumfrugt.dk/.well-known/security.txt
+https://korningfonden.dk/.well-known/security.txt
+https://kropspolitik.dk/.well-known/security.txt
+https://land-craft.dk/.well-known/security.txt
+https://ledelsesevaluering.dk/.well-known/security.txt
+https://lutherforum.dk/.well-known/security.txt
+https://magtenssegl.dk/.well-known/security.txt
+https://magtudredningen.dk/.well-known/security.txt
+https://magtudredningen2.dk/.well-known/security.txt
+https://mapeire.dk/.well-known/security.txt
+https://maphysto.dk/.well-known/security.txt
+https://mapplan.dk/.well-known/security.txt
+https://marslab.dk/.well-known/security.txt
+https://matematikdidaktik.dk/.well-known/security.txt
+https://mathematics.dk/.well-known/security.txt
+https://maxveg.dk/.well-known/security.txt
+https://mbachange.dk/.well-known/security.txt
+https://metooau.dk/.well-known/security.txt
+https://milkgenomics.dk/.well-known/security.txt
+https://mrnp.dk/.well-known/security.txt
+https://muds.dk/.well-known/security.txt
+https://muldvarpekursus.dk/.well-known/security.txt
+https://museerne-uniparken.dk/.well-known/security.txt
+https://museerneuniparken.dk/.well-known/security.txt
+https://nanobiointerfaces.dk/.well-known/security.txt
+https://nanomedicine.dk/.well-known/security.txt
+https://nanorama.dk/.well-known/security.txt
+https://nanoshow.dk/.well-known/security.txt
+https://narrativeresearchlab.dk/.well-known/security.txt
+https://naturligteknik.dk/.well-known/security.txt
+https://ncff.dk/.well-known/security.txt
+https://ncrr.dk/.well-known/security.txt
+https://ncum.dk/.well-known/security.txt
+https://neri.dk/.well-known/security.txt
+https://nordkurs.dk/.well-known/security.txt
+https://nuuk-basic.dk/.well-known/security.txt
+https://oeconraadet.dk/.well-known/security.txt
+https://oleroemerobservatoriet.dk/.well-known/security.txt
+https://oleromerobservatoriet.dk/.well-known/security.txt
+https://open-odin.dk/.well-known/security.txt
+https://orbitlab.dk/.well-known/security.txt
+https://otherness.dk/.well-known/security.txt
+https://phdassociation.dk/.well-known/security.txt
+https://phdraadetforuddannelsesforskning.dk/.well-known/security.txt
+https://pigvac.dk/.well-known/security.txt
+https://plant2food.dk/.well-known/security.txt
+https://politica.dk/.well-known/security.txt
+https://poseidon-nordic.dk/.well-known/security.txt
+https://ppr-forsk.dk/.well-known/security.txt
+https://profishvac.dk/.well-known/security.txt
+https://protecfruit.dk/.well-known/security.txt
+https://proteins.dk/.well-known/security.txt
+https://q-model.dk/.well-known/security.txt
+https://questprojekt.dk/.well-known/security.txt
+https://religionidanmark.dk/.well-known/security.txt
+https://religiousroots.dk/.well-known/security.txt
+https://resaw.dk/.well-known/security.txt
+https://retsvidenskabeligttidsskrift.dk/.well-known/security.txt
+https://rettid.dk/.well-known/security.txt
+https://romansk-stenkunst.dk/.well-known/security.txt
+https://romantikstudier.dk/.well-known/security.txt
+https://rusmiddelforskning.dk/.well-known/security.txt
+https://ryeproc.dk/.well-known/security.txt
+https://samtalegrammatik.dk/.well-known/security.txt
+https://sciencemuseerne.dk/.well-known/security.txt
+https://scienceparken.dk/.well-known/security.txt
+https://sciencetv.dk/.well-known/security.txt
+https://smartbiomed.dk/.well-known/security.txt
+https://soilcompaction.dk/.well-known/security.txt
+https://spiderlab.dk/.well-known/security.txt
+https://spin-in.dk/.well-known/security.txt
+https://spinin.dk/.well-known/security.txt
+https://stability-democracy-rights.dk/.well-known/security.txt
+https://stenomuseet.dk/.well-known/security.txt
+https://stofbladet.dk/.well-known/security.txt
+https://streammodel.dk/.well-known/security.txt
+https://sundesvampe.dk/.well-known/security.txt
+https://tasc4.dk/.well-known/security.txt
+https://technucation.dk/.well-known/security.txt
+https://tekniktilafgraesning.dk/.well-known/security.txt
+https://tycho-brahe.dk/.well-known/security.txt
+https://ukrudtsbogen.dk/.well-known/security.txt
+https://uniparken.dk/.well-known/security.txt
+https://uniparkenaarhus.dk/.well-known/security.txt
+https://unityskforening.dk/.well-known/security.txt
+https://unnaturalnarratology.dk/.well-known/security.txt
+https://vaeksthusene.dk/.well-known/security.txt
+https://villumresearchstation.dk/.well-known/security.txt
+https://virksomhedsuniversitetet.dk/.well-known/security.txt
+https://vpp4sgr.dk/.well-known/security.txt
+https://weaver-ant.dk/.well-known/security.txt
+https://xn--brneforsk-l8a.dk/.well-known/security.txt
+https://xn--fosforkortlgning-4ob.dk/.well-known/security.txt
+https://xn--guidekoplanteavl-pxb.dk/.well-known/security.txt
+https://xn--olermerobservatoriet-ecc.dk/.well-known/security.txt
+https://xn--pdagogiskuniversitet-i0b.dk/.well-known/security.txt
+https://xn--solformrkelse-hnb.dk/.well-known/security.txt
+https://xn--vksthusene-d6a.dk/.well-known/security.txt
+https://yourniversity.dk/.well-known/security.txt
+https://zackenberg.dk/.well-known/security.txt
+
+Contact: mailto:security@au.dk
+Contact: https://twitter.com/aarhusunicyber
+Preferred-Languages: da, en
+
+Canonical: https://au.dk/.well-known/security.txt
+
+Expires: 2025-08-19T00:00:00.000Z
+
+----
+
+https://abc-industrigummi.dk/.well-known/security.txt
+https://bibliarium.dk/.well-known/security.txt
+https://cafemikkel.dk/.well-known/security.txt
+https://denstoretidsrejse.dk/.well-known/security.txt
+https://erdurigtigklog.dk/.well-known/security.txt
+https://formetafler.dk/.well-known/security.txt
+https://freckauto.dk/.well-known/security.txt
+https://fristelse.dk/.well-known/security.txt
+https://fs-bornholm.dk/.well-known/security.txt
+https://fs-dt.dk/.well-known/security.txt
+https://fs-fh.dk/.well-known/security.txt
+https://fs-oest.dk/.well-known/security.txt
+https://fs-skibet.dk/.well-known/security.txt
+https://fs-vestegnen.dk/.well-known/security.txt
+https://fsfisk.dk/.well-known/security.txt
+https://fsfp.dk/.well-known/security.txt
+https://fsgh.dk/.well-known/security.txt
+https://fsha.dk/.well-known/security.txt
+https://fskf.dk/.well-known/security.txt
+https://giesegaard.dk/.well-known/security.txt
+https://hvorlangtkanmangaa.dk/.well-known/security.txt
+https://kandethelligemaales.dk/.well-known/security.txt
+https://karlasjulejagt.dk/.well-known/security.txt
+https://kirke-skole.dk/.well-known/security.txt
+https://kirkekvist.dk/.well-known/security.txt
+https://kirkemonster.dk/.well-known/security.txt
+https://kirkeridinby.dk/.well-known/security.txt
+https://kok-amok.dk/.well-known/security.txt
+https://kokamok-catering.dk/.well-known/security.txt
+https://kokamok.dk/.well-known/security.txt
+https://kroneauktioner.dk/.well-known/security.txt
+https://kvist-alsang.dk/.well-known/security.txt
+https://kvist-engle.dk/.well-known/security.txt
+https://kvist-fremmed.dk/.well-known/security.txt
+https://kvist-julemysteriet.dk/.well-known/security.txt
+https://lindrupbyg.dk/.well-known/security.txt
+https://lunderskovisolering.dk/.well-known/security.txt
+https://mhn-entreprenoer.dk/.well-known/security.txt
+https://midtiverden.dk/.well-known/security.txt
+https://mogm-servicegruppen.dk/.well-known/security.txt
+https://monstre.dk/.well-known/security.txt
+https://nickgade.dk/.well-known/security.txt
+https://paakant.dk/.well-known/security.txt
+https://plastgrossisten.dk/.well-known/security.txt
+https://radikaliseret.dk/.well-known/security.txt
+https://re-formation.dk/.well-known/security.txt
+https://religionsfrihediskolen.dk/.well-known/security.txt
+https://skole-kirke-aarhus.dk/.well-known/security.txt
+https://skoletjenesten-knips.dk/.well-known/security.txt
+https://slagelselift.dk/.well-known/security.txt
+https://sorgoglivsmod.dk/.well-known/security.txt
+https://sylf.dk/.well-known/security.txt
+https://timeglassetshemmelighed.dk/.well-known/security.txt
+https://wrooom.dk/.well-known/security.txt
+https://xn--ene-stende-65a.dk/.well-known/security.txt
+https://xn--gpvandet-9zab.dk/.well-known/security.txt
+https://xn--hvlving-nxa.dk/.well-known/security.txt
+https://xn--ingenoverfllesskabet-r0b.dk/.well-known/security.txt
+https://xn--kldtptilsorg-xcbk.dk/.well-known/security.txt
+https://xn--morsjulenske-2jb.dk/.well-known/security.txt
+https://xn--sogland-q1a.dk/.well-known/security.txt
+https://xn--spilledsen-75a.dk/.well-known/security.txt
+
+Contact: https://webto.dk
+Contact: mailto:security@webtomail.dk
+Preferred-Languages: dk, en
+Expires: 2030-12-31T12:00:00.000Z
+
+----
+
+https://aknu.dk/.well-known/security.txt
+https://alisia.dk/.well-known/security.txt
+https://anmeldt.dk/.well-known/security.txt
+https://bmpnj.dk/.well-known/security.txt
+https://bornekliniknord.dk/.well-known/security.txt
+https://brunnich.dk/.well-known/security.txt
+https://din-ret.dk/.well-known/security.txt
+https://droppod.dk/.well-known/security.txt
+https://dyssemarken.dk/.well-known/security.txt
+https://eiholmbaek.dk/.well-known/security.txt
+https://ellyton.dk/.well-known/security.txt
+https://fam-thingvad.dk/.well-known/security.txt
+https://fjong.dk/.well-known/security.txt
+https://fragtrater.dk/.well-known/security.txt
+https://gaetsangen.dk/.well-known/security.txt
+https://gosse.dk/.well-known/security.txt
+https://greensite.dk/.well-known/security.txt
+https://hansbroge.dk/.well-known/security.txt
+https://hasoendergaard.dk/.well-known/security.txt
+https://hasseris-it.dk/.well-known/security.txt
+https://hcandersen-rejser.dk/.well-known/security.txt
+https://healinghandsforyou.dk/.well-known/security.txt
+https://jens-it.dk/.well-known/security.txt
+https://johannedueholm.dk/.well-known/security.txt
+https://k-soerensen.dk/.well-known/security.txt
+https://kliand.dk/.well-known/security.txt
+https://kolindsund-bryghus.dk/.well-known/security.txt
+https://krydsogbolle.dk/.well-known/security.txt
+https://kursustilbud.dk/.well-known/security.txt
+https://lappy.dk/.well-known/security.txt
+https://liccardi.dk/.well-known/security.txt
+https://mail4us.dk/.well-known/security.txt
+https://mc-tyrsbjerg.dk/.well-known/security.txt
+https://min-ret.dk/.well-known/security.txt
+https://mortendueholm.dk/.well-known/security.txt
+https://mtvillumsen.dk/.well-known/security.txt
+https://natdistribution.dk/.well-known/security.txt
+https://nickn.dk/.well-known/security.txt
+https://norregaards.dk/.well-known/security.txt
+https://nytoften14.dk/.well-known/security.txt
+https://osterman.dk/.well-known/security.txt
+https://oz6gvr.dk/.well-known/security.txt
+https://plantempus.dk/.well-known/security.txt
+https://raben.dk/.well-known/security.txt
+https://renpuds.dk/.well-known/security.txt
+https://rosmarinvej.dk/.well-known/security.txt
+https://simsys.dk/.well-known/security.txt
+https://surfing.dk/.well-known/security.txt
+https://takeware.dk/.well-known/security.txt
+https://transportrater.dk/.well-known/security.txt
+https://tybi.dk/.well-known/security.txt
+https://uldbaek.dk/.well-known/security.txt
+https://urbanfamily.dk/.well-known/security.txt
+https://valdemardueholm.dk/.well-known/security.txt
+https://vinterbaderne.dk/.well-known/security.txt
+https://vitalyoga.dk/.well-known/security.txt
+https://vkap.dk/.well-known/security.txt
+https://wklitgaard.dk/.well-known/security.txt
+https://xn--brnnich-o2a.dk/.well-known/security.txt
+https://xn--grnit-wua.dk/.well-known/security.txt
+https://zoolook.dk/.well-known/security.txt
+
+Contact: mailto:info@hostingnet.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://advonaut.dk/.well-known/security.txt
+https://argusdatainsights.dk/.well-known/security.txt
+https://bandofboats.dk/.well-known/security.txt
+https://biogarten.dk/.well-known/security.txt
+https://boat-24.dk/.well-known/security.txt
+https://brezelkoenig.dk/.well-known/security.txt
+https://capefoxx.dk/.well-known/security.txt
+https://carbon-cleaning.dk/.well-known/security.txt
+https://carboncleaning.dk/.well-known/security.txt
+https://cheezy-swiss.dk/.well-known/security.txt
+https://creaclean.dk/.well-known/security.txt
+https://currybag.dk/.well-known/security.txt
+https://elemento-design.dk/.well-known/security.txt
+https://energie-innovationspark-a10.dk/.well-known/security.txt
+https://enervationspark.dk/.well-known/security.txt
+https://europhat.dk/.well-known/security.txt
+https://feedback-app.dk/.well-known/security.txt
+https://genostis.dk/.well-known/security.txt
+https://genterel.dk/.well-known/security.txt
+https://handango.dk/.well-known/security.txt
+https://hydroliq.dk/.well-known/security.txt
+https://i-handle-it.dk/.well-known/security.txt
+https://inautia.dk/.well-known/security.txt
+https://isonatec.dk/.well-known/security.txt
+https://it-bikes.dk/.well-known/security.txt
+https://jaagou.dk/.well-known/security.txt
+https://karmacoin.dk/.well-known/security.txt
+https://karmadays.dk/.well-known/security.txt
+https://karmaland.dk/.well-known/security.txt
+https://karmalevel.dk/.well-known/security.txt
+https://lensvision.dk/.well-known/security.txt
+https://lilicara.dk/.well-known/security.txt
+https://mikksdrinks.dk/.well-known/security.txt
+https://modbox.dk/.well-known/security.txt
+https://moveart.dk/.well-known/security.txt
+https://navita-danmark.dk/.well-known/security.txt
+https://oscarwash.dk/.well-known/security.txt
+https://planetimpactfoundation.dk/.well-known/security.txt
+https://raviolicious.dk/.well-known/security.txt
+https://ribomustin.dk/.well-known/security.txt
+https://riwax.dk/.well-known/security.txt
+https://rollerina.dk/.well-known/security.txt
+https://shufl.dk/.well-known/security.txt
+https://simplewin.dk/.well-known/security.txt
+https://slotilda.dk/.well-known/security.txt
+https://soul-experience.dk/.well-known/security.txt
+https://soulexperiance.dk/.well-known/security.txt
+https://soulexperience.dk/.well-known/security.txt
+https://thut.dk/.well-known/security.txt
+https://tiptorro.dk/.well-known/security.txt
+https://topboats.dk/.well-known/security.txt
+https://villiger.dk/.well-known/security.txt
+https://xantron.dk/.well-known/security.txt
+https://yokoy.dk/.well-known/security.txt
+https://youfie.dk/.well-known/security.txt
+
+Contact: mailto:rd@hostpoint.ch
+Expires: 2031-12-31T23:00:00.000Z
+Encryption: https://www.hostpoint.ch/downloads/keys/rd-hostpoint.ch.pubkey
+Preferred-Languages: de, en
+Policy: https://www.hostpoint.ch/bugbounty/
+
+----
+
+https://27241919.dk/.well-known/security.txt
+https://5000.dk/.well-known/security.txt
+https://5200.dk/.well-known/security.txt
+https://5210.dk/.well-known/security.txt
+https://5230.dk/.well-known/security.txt
+https://5240.dk/.well-known/security.txt
+https://5320.dk/.well-known/security.txt
+https://5461.dk/.well-known/security.txt
+https://5474.dk/.well-known/security.txt
+https://5491.dk/.well-known/security.txt
+https://5956.dk/.well-known/security.txt
+https://5958.dk/.well-known/security.txt
+https://bn-data.dk/.well-known/security.txt
+https://bndata.dk/.well-known/security.txt
+https://byfonden.dk/.well-known/security.txt
+https://bynavne.dk/.well-known/security.txt
+https://cakesbynavne.dk/.well-known/security.txt
+https://erhvervbackup.dk/.well-known/security.txt
+https://erhvervsbackup.dk/.well-known/security.txt
+https://familiedag.dk/.well-known/security.txt
+https://familiedagen.dk/.well-known/security.txt
+https://filbixen.dk/.well-known/security.txt
+https://filbutikken.dk/.well-known/security.txt
+https://fritransport.dk/.well-known/security.txt
+https://hjaelpefonden.dk/.well-known/security.txt
+https://kamu.dk/.well-known/security.txt
+https://medlemsfordele.dk/.well-known/security.txt
+https://muttismad.dk/.well-known/security.txt
+https://oldetulle.dk/.well-known/security.txt
+https://privatbackup.dk/.well-known/security.txt
+https://repliker.dk/.well-known/security.txt
+https://replikering.dk/.well-known/security.txt
+https://signin.dk/.well-known/security.txt
+https://skypro.dk/.well-known/security.txt
+https://turguide.dk/.well-known/security.txt
+https://webben.dk/.well-known/security.txt
+https://xn--derbl-orac.dk/.well-known/security.txt
+https://xn--hermelinlkken-jnb.dk/.well-known/security.txt
+https://xn--hjlpefonden-b9a.dk/.well-known/security.txt
+
+Contact: mailto:navne@kalnet.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bangcloud.dk/.well-known/security.txt
+https://basskaya.dk/.well-known/security.txt
+https://bcloud.dk/.well-known/security.txt
+https://bjarnek.dk/.well-known/security.txt
+https://blackcloud.dk/.well-known/security.txt
+https://borncloud.dk/.well-known/security.txt
+https://c-reinhardt-dealer.dk/.well-known/security.txt
+https://cloudvoss.dk/.well-known/security.txt
+https://cloudy.dk/.well-known/security.txt
+https://cn.dk/.well-known/security.txt
+https://diskdrev.dk/.well-known/security.txt
+https://emms.dk/.well-known/security.txt
+https://h8.dk/.well-known/security.txt
+https://haugland.dk/.well-known/security.txt
+https://henrikkier.dk/.well-known/security.txt
+https://ibrd.dk/.well-known/security.txt
+https://iwersen1.dk/.well-known/security.txt
+https://jaktool.dk/.well-known/security.txt
+https://jk-docs.dk/.well-known/security.txt
+https://kimj.dk/.well-known/security.txt
+https://kokoscloud.dk/.well-known/security.txt
+https://kruusing.dk/.well-known/security.txt
+https://lillesky.dk/.well-known/security.txt
+https://lindeman.dk/.well-known/security.txt
+https://lyksen.dk/.well-known/security.txt
+https://manabere.dk/.well-known/security.txt
+https://melting.dk/.well-known/security.txt
+https://mrpc.dk/.well-known/security.txt
+https://nelinc.dk/.well-known/security.txt
+https://neurokirurgisk.dk/.well-known/security.txt
+https://onlinefil.dk/.well-known/security.txt
+https://sheller.dk/.well-known/security.txt
+https://silkedrop.dk/.well-known/security.txt
+https://skal.dk/.well-known/security.txt
+https://smukdesk.dk/.well-known/security.txt
+https://storaaen.dk/.well-known/security.txt
+https://trmc.dk/.well-known/security.txt
+https://dropr.dk/.well-known/security.txt
+
+Contact: https://hackerone.com/nextcloud
+Expires: 2025-08-31T23:00:00.000Z
+Acknowledgments: https://hackerone.com/nextcloud/thanks
+Acknowledgments: https://github.com/nextcloud/security-advisories/security/advisories
+Policy: https://hackerone.com/nextcloud
+Preferred-Languages: en
+
+----
+
+https://MIB-1.dk/.well-known/security.txt
+https://ai-test.dk/.well-known/security.txt
+https://bfmp.dk/.well-known/security.txt
+https://chatgpt-test.dk/.well-known/security.txt
+https://dkstat.dk/.well-known/security.txt
+https://dmzroot.dk/.well-known/security.txt
+https://gov-cloud.dk/.well-known/security.txt
+https://govsit.dk/.well-known/security.txt
+https://insit-wb.dk/.well-known/security.txt
+https://kitnet.dk/.well-known/security.txt
+https://mflf.dk/.well-known/security.txt
+https://mib-1.dk/.well-known/security.txt
+https://mib-2.dk/.well-known/security.txt
+https://samarb.dk/.well-known/security.txt
+https://sia365.dk/.well-known/security.txt
+https://siaopen.dk/.well-known/security.txt
+https://sit-net.dk/.well-known/security.txt
+https://sit-preprod.dk/.well-known/security.txt
+https://sit-test.dk/.well-known/security.txt
+https://sit-ttj.dk/.well-known/security.txt
+https://sit365.dk/.well-known/security.txt
+https://sitcloud.dk/.well-known/security.txt
+https://sitttj.dk/.well-known/security.txt
+https://statens-it-net.dk/.well-known/security.txt
+https://statens-itcenter.dk/.well-known/security.txt
+https://statensitcenter.dk/.well-known/security.txt
+https://statensitnet.dk/.well-known/security.txt
+https://statensttj.dk/.well-known/security.txt
+https://statsnettet.dk/.well-known/security.txt
+https://testsit-wb.dk/.well-known/security.txt
+https://xn--fllesweb-j0a.dk/.well-known/security.txt
+
+Contact: mailto:statens-it@statens-it.dk
+Expires: 2028-01-01T11:00:00.000Z
+
+----
+
+https://biotta.dk/.well-known/security.txt
+https://callcare.dk/.well-known/security.txt
+https://callshops.dk/.well-known/security.txt
+https://dcco.dk/.well-known/security.txt
+https://dether.dk/.well-known/security.txt
+https://digitalk.dk/.well-known/security.txt
+https://dystopier.dk/.well-known/security.txt
+https://dystotarium.dk/.well-known/security.txt
+https://e-stribution.dk/.well-known/security.txt
+https://easi.dk/.well-known/security.txt
+https://estribution.dk/.well-known/security.txt
+https://go-tel.dk/.well-known/security.txt
+https://guestu.dk/.well-known/security.txt
+https://licence2call.dk/.well-known/security.txt
+https://license2call.dk/.well-known/security.txt
+https://molkosan.dk/.well-known/security.txt
+https://ndas.dk/.well-known/security.txt
+https://ndk.dk/.well-known/security.txt
+https://ndkgroup.dk/.well-known/security.txt
+https://noniusdanmark.dk/.well-known/security.txt
+https://noniussolutions.dk/.well-known/security.txt
+https://nytopia.dk/.well-known/security.txt
+https://patton.dk/.well-known/security.txt
+https://toptel.dk/.well-known/security.txt
+https://unicard.dk/.well-known/security.txt
+https://webcard.dk/.well-known/security.txt
+https://xn--lundbylokalrd-0fb.dk/.well-known/security.txt
+https://youtel.dk/.well-known/security.txt
+
+Contact: mailto:sm@wtl.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://11a.dk/.well-known/security.txt
+https://2400.dk/.well-known/security.txt
+https://2650.dk/.well-known/security.txt
+https://3460.dk/.well-known/security.txt
+https://3500.dk/.well-known/security.txt
+https://4720.dk/.well-known/security.txt
+https://5600.dk/.well-known/security.txt
+https://9940.dk/.well-known/security.txt
+https://aliki.dk/.well-known/security.txt
+https://flr.dk/.well-known/security.txt
+https://gf-sejr.dk/.well-known/security.txt
+https://greenland-guide.dk/.well-known/security.txt
+https://greenlandguide.dk/.well-known/security.txt
+https://josc.dk/.well-known/security.txt
+https://kirkeskibe.dk/.well-known/security.txt
+https://laboratoriet.dk/.well-known/security.txt
+https://lyngerasmussen.dk/.well-known/security.txt
+https://mlr.dk/.well-known/security.txt
+https://nextweekend.dk/.well-known/security.txt
+https://nly.dk/.well-known/security.txt
+https://pegasuspress.dk/.well-known/security.txt
+https://siw.dk/.well-known/security.txt
+https://vejsigbruun.dk/.well-known/security.txt
+
+Contact: mailto:pegasuspress@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://aftr.dk/security.txt
+https://bi.dk/security.txt
+https://c0.dk/security.txt
+https://cnrd.dk/security.txt
+https://dashs.dk/security.txt
+https://desj.dk/security.txt
+https://hjlp.dk/security.txt
+https://hlt.dk/security.txt
+https://jsnt.dk/security.txt
+https://kmblm.dk/security.txt
+https://mentordk.dk/security.txt
+https://mskjr.dk/security.txt
+https://ntst.dk/security.txt
+https://odra.dk/security.txt
+https://onsy.dk/security.txt
+https://sktch.dk/security.txt
+https://smg.dk/security.txt
+https://snkrs.dk/security.txt
+https://thegol.dk/security.txt
+https://url2.dk/security.txt
+https://vestmus.dk/security.txt
+https://vtgr.dk/security.txt
+https://wndr.dk/security.txt
+
+Contact: security@bitly.com
+Encryption: https://bitly.com/security_pgp.txt
+Disclosure: Partial
+
+----
+
+https://carsleeping.dk/.well-known/security.txt
+https://carsleeping.dk/security.txt
+https://inet6.dk/.well-known/security.txt
+https://inet6.dk/security.txt
+https://ipv6-taskforce.dk/.well-known/security.txt
+https://ipv6-taskforce.dk/security.txt
+https://ipv6tf.dk/.well-known/security.txt
+https://ipv6tf.dk/security.txt
+https://kramselund.dk/.well-known/security.txt
+https://kramselund.dk/security.txt
+https://pentest.dk/.well-known/security.txt
+https://pentest.dk/security.txt
+https://pentesting.dk/.well-known/security.txt
+https://pentesting.dk/security.txt
+https://portscanning.dk/.well-known/security.txt
+https://portscanning.dk/security.txt
+https://security6.dk/.well-known/security.txt
+https://security6.dk/security.txt
+https://tcpip.dk/.well-known/security.txt
+https://tcpip.dk/security.txt
+https://zencurity.dk/.well-known/security.txt
+https://zencurity.dk/security.txt
+
+Contact: mailto:abuse@zencurity.com
+Expires: 2025-12-31T23:59:07.000Z
+
+----
+
+https://american-tourister.dk/.well-known/security.txt
+https://americantourister.dk/.well-known/security.txt
+https://biolectric.dk/.well-known/security.txt
+https://bnamed.dk/.well-known/security.txt
+https://highsierra.dk/.well-known/security.txt
+https://lipault.dk/.well-known/security.txt
+https://llbg.dk/.well-known/security.txt
+https://lotusnaturalfoods.dk/.well-known/security.txt
+https://operamini.dk/.well-known/security.txt
+https://operasoftware.dk/.well-known/security.txt
+https://photoflyer.dk/.well-known/security.txt
+https://pinkminds.dk/.well-known/security.txt
+https://rollingluggage.dk/.well-known/security.txt
+https://samsonite.dk/.well-known/security.txt
+https://samsoniteblacklabel.dk/.well-known/security.txt
+https://sesvanderhave.dk/.well-known/security.txt
+https://tumi.dk/.well-known/security.txt
+
+Contact: mailto:security-txt@nameweb.biz
+Expires: 2026-05-19T11:00:00.000Z
+Preferred-Languages: en, fr, nl
+
+----
+
+https://0h.dk/.well-known/security.txt
+https://aaseogfie.dk/.well-known/security.txt
+https://baltorpvej29.dk/.well-known/security.txt
+https://fam-jespersen.dk/.well-known/security.txt
+https://ipfw.dk/.well-known/security.txt
+https://jsprsn.dk/.well-known/security.txt
+https://kleist.dk/.well-known/security.txt
+https://logiztik.dk/.well-known/security.txt
+https://o31.dk/.well-known/security.txt
+https://ust.dk/.well-known/security.txt
+
+Contact: mailto:l@ust.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://beezy365it.dk/.well-known/security.txt
+https://detsocialenervesystem.dk/.well-known/security.txt
+https://lindboe-ejendomme.dk/.well-known/security.txt
+https://mogensmc.dk/.well-known/security.txt
+https://sanocenter.dk/.well-known/security.txt
+https://vomc.dk/.well-known/security.txt
+https://webto.dk/.well-known/security.txt
+https://webto.dk/security.txt
+
+Contact: https://webto.dk
+Contact: mailto:security@webtomail.dk
+Preferred-Languages: da, en
+Expires: 2030-12-31T12:00:00.000Z
+
+----
+
+https://ambrosiagroup.dk/security.txt
+https://club-mate.dk/security.txt
+https://coffeecity.dk/security.txt
+https://drikkevarer-outlet.dk/security.txt
+https://grapedesign.dk/security.txt
+https://permin.dk/security.txt
+
+Contact: mailto:security@raymeon.com
+
+----
+
+https://herstedlak.dk/.well-known/security.txt
+https://knocker.dk/.well-known/security.txt
+https://oensmaler.dk/.well-known/security.txt
+https://peopleit.dk/.well-known/security.txt
+https://tordenthor.dk/.well-known/security.txt
+https://xn--ensmaler-44a.dk/.well-known/security.txt
+
+Contact: mailto:bregenborgtommy@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://beason31.dk/.well-known/security.txt
+https://buri.dk/.well-known/security.txt
+https://dahl-jepsen.dk/.well-known/security.txt
+https://hald-jepsen.dk/.well-known/security.txt
+https://stail-buris.dk/.well-known/security.txt
+https://tutavallis.dk/.well-known/security.txt
+
+Contact: mailto:mail@beason31.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://baconline.dk/.well-known/security.txt
+https://beks-systems.dk/.well-known/security.txt
+https://financialinvestigator.dk/.well-known/security.txt
+https://procurios.dk/.well-known/security.txt
+https://procurious.dk/.well-known/security.txt
+https://procurius.dk/.well-known/security.txt
+
+Contact: mailto:support@procurios.com
+Expires: 2025-08-01T00:00:00+00:00
+Preferred-Languages: nl, en
+
+----
+
+https://bookaball.dk/.well-known/security.txt
+https://burnies.dk/.well-known/security.txt
+https://comfortace.dk/.well-known/security.txt
+https://intersango.dk/.well-known/security.txt
+https://iused.dk/.well-known/security.txt
+https://kreidlerservice.dk/.well-known/security.txt
+
+Contact: mailto:security@bhosted.nl
+Expires: 2025-07-19T00:00:00Z
+Preferred-Languages: nl, en
+
+----
+
+https://spreadgroup.dk/.well-known/security.txt
+https://spreadgroup.dk/security.txt
+https://spreadshirt.dk/.well-known/security.txt
+https://spreadshirt.dk/security.txt
+https://teamshirts.dk/.well-known/security.txt
+https://teamshirts.dk/security.txt
+
+Contact: mailto:security@spreadgroup.com
+Expires: 2025-11-09T00:00:00.000Z
+Encryption: https://assets.spreadshirt.net/security/publickey.asc
+
+----
+
+https://hr-psykologi.dk/.well-known/security.txt
+https://petsit.dk/.well-known/security.txt
+https://sansir.dk/.well-known/security.txt
+https://vonin.dk/.well-known/security.txt
+https://vonindanmark.dk/.well-known/security.txt
+
+Contact: mailto:security@sansir.fo
+Hiring: mailto:info@sansir.fo
+Expires: 2025-10-01T09:00:00.000Z
+
+----
+
+https://enitiativ.dk/.well-known/security.txt
+https://hifidebat.dk/.well-known/security.txt
+https://robothuset.dk/.well-known/security.txt
+https://summon.dk/.well-known/security.txt
+https://vinyler.dk/.well-known/security.txt
+
+Contact: mailto:steffensen@grejsdalen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bryndumsager.dk/.well-known/security.txt
+https://lailabaltser.dk/.well-known/security.txt
+https://rumfabrik.dk/.well-known/security.txt
+https://whatthehack.dk/.well-known/security.txt
+https://xn--rre-tmrer-42a8s.dk/.well-known/security.txt
+
+Contact: mailto:albert@computernoerden.dk
+
+Expires: 2023-09-21T10:00:00.000Z
+
+Preferred-Languages: da, en
+
+----
+
+https://energigo.dk/.well-known/security.txt
+https://hobbygaragen.dk/.well-known/security.txt
+https://lysterapibutikken.dk/.well-known/security.txt
+https://onlinetutor.dk/.well-known/security.txt
+https://prepperudstyr.dk/.well-known/security.txt
+
+Contact: mailto:jakobsnabe@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://ceposkurser.dk/security.txt
+https://steamdox.dk/security.txt
+https://stemdox.dk/security.txt
+https://stopmina.dk/security.txt
+https://uvbcsyd.dk/security.txt
+
+Contact: https://moodle.org/security/report/
+Acknowledgments: https://moodle.org/security/
+Preferred-Languages: en
+Canonical: https://moodle.org/.well-known/security.txt
+Policy: https://docs.moodle.org/dev/Moodle_security_procedures
+Expires: 2022-12-05T01:00:00.000Z
+
+----
+
+https://aalborg-data.dk/.well-known/security.txt
+https://aalborgdata.dk/.well-known/security.txt
+https://netbridge.dk/.well-known/security.txt
+https://scentia.dk/.well-known/security.txt
+https://skalkam.dk/.well-known/security.txt
+
+Contact: mailto:thorvald@netbridge.dk
+Contact: https://www.linkedin.com/in/thorvald/
+
+----
+
+https://roennekilde.dk/.well-known/security.txt
+https://ronnekilde.dk/.well-known/security.txt
+https://xn--flskefjs-k0af.dk/.well-known/security.txt
+https://xn--rnnekilde-l8a.dk/.well-known/security.txt
+
+Contact: mailto:support@isp4u.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bfm-fitting.dk/.well-known/security.txt
+https://filtriq.dk/.well-known/security.txt
+https://insolids.dk/.well-known/security.txt
+https://vlint.dk/.well-known/security.txt
+
+Contact: mailto:security@triple.nl
+Expires: 2026-05-10T22:00:00.000Z
+Preferred-Languages: nl,en
+
+----
+
+https://dintraepleje.dk/.well-known/security.txt
+https://pzipp.dk/.well-known/security.txt
+https://xn--dintrpleje-h6a.dk/.well-known/security.txt
+https://xn--stttrup-r1a.dk/.well-known/security.txt
+
+Contact: mailto:sebastian@pzipp.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://jydskdata.dk/.well-known/security.txt
+https://jyskdata.dk/.well-known/security.txt
+https://jyskedata.dk/.well-known/security.txt
+https://videnbank.dk/.well-known/security.txt
+
+Contact: mailto:kontakt@jyskdata.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://notarius-publicus.dk/.well-known/security.txt
+https://notariuspublicus.dk/.well-known/security.txt
+https://rosenslot.dk/.well-known/security.txt
+https://terapeuten.dk/.well-known/security.txt
+
+Contact: mailto:rosenslot@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://omni-group.dk/.well-known/security.txt
+https://omni-sky.dk/.well-known/security.txt
+https://omnigroup.dk/.well-known/security.txt
+https://omnisky.dk/.well-known/security.txt
+
+Contact: https://mit.omnisky.dk/submitticket.php?step=2&deptid=3
+Expires: 2028-12-31T23:00:00.000Z
+
+----
+
+https://messell.dk/.well-known/security.txt
+https://mmaps.dk/.well-known/security.txt
+https://skalvihavepandekageridag.dk/.well-known/security.txt
+https://truebeliever.dk/.well-known/security.txt
+
+Contact: mailto:michael@messell.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://frececofonden.dk/.well-known/security.txt
+https://frececofonden.dk/security.txt
+https://rhinoklinikken.dk/.well-known/security.txt
+https://rhinoklinikken.dk/security.txt
+
+Contact: mailto:digital@yu.agency
+Expires: 2025-01-31T15:59:00.000Z
+Preferred-Languages: en
+
+----
+
+https://ibook.dk/security.txt
+https://igames.dk/security.txt
+https://imusic.dk/security.txt
+https://ivinyl.dk/security.txt
+
+Contact: 
+Encryption: 
+Acknowledgements: 
+Policy: 
+Signature: 
+Hiring: 
+OpenBugBounty: https://openbugbounty.org/bugbounty/crishoj/
+
+----
+
+https://danet.dk/.well-known/security.txt
+https://toosmooth.dk/.well-known/security.txt
+https://vels-data.dk/.well-known/security.txt
+
+Contact: mailto:pv@vels-data.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://noniussoftware.dk/.well-known/security.txt
+https://unitelco.dk/.well-known/security.txt
+https://wtl.dk/.well-known/security.txt
+
+Contact: mailto:sm@noniussoftware.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://kanoudlejning-kongeaaen.dk/.well-known/security.txt
+https://kongeaacampingogkano.dk/.well-known/security.txt
+https://xn--kanoudlejning-kongeen-b3b.dk/.well-known/security.txt
+
+Contact: mailto:albert@computernoerden.dk
+Expires: 2023-09-10T10:00:00.000Z
+Preferred-Languages: da, en
+
+----
+
+https://michaelsass.dk/.well-known/security.txt
+https://sassandersen.dk/.well-known/security.txt
+https://x3.dk/.well-known/security.txt
+
+Contact: mailto:mail@michaelsass.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://panser.dk/security.txt
+https://pansermuseet.dk/security.txt
+https://pansermuseum.dk/security.txt
+
+Contact: https://www.pansermuseet.dk/kontakt/
+Expires: 2025-07-03T21:00:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://www.pansermuseet.dk/security.txt
+
+----
+
+https://europark.dk/.well-known/security.txt
+https://laark.dk/.well-known/security.txt
+https://skuespillerhaandbogen.dk/.well-known/security.txt
+
+Contact: mailto:info@typoconsult.dk
+Expires: 2030-01-01T11:00:00.000Z
+
+----
+
+https://bukser.dk/.well-known/security.txt
+https://onlinebutikken.dk/.well-known/security.txt
+https://vejling.dk/.well-known/security.txt
+
+Contact: mailto:jan@vejling.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://accomodation.dk/.well-known/security.txt
+https://smag.dk/.well-known/security.txt
+https://spinhouse.dk/.well-known/security.txt
+
+Contact: mailto:spinhouse@spinhouse.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bogoe.dk/.well-known/security.txt
+https://saints.dk/.well-known/security.txt
+https://staypositive.dk/.well-known/security.txt
+
+Contact: mailto:rasmus@bogoe.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://camcandy.dk/.well-known/security.txt
+https://camstar.dk/.well-known/security.txt
+https://xcams.dk/.well-known/security.txt
+
+Contact: mailto:security@dnxcorp.com
+Expires: 2050-01-01T12:01:00.000Z
+
+----
+
+https://5vip.dk/.well-known/security.txt
+https://6vip.dk/.well-known/security.txt
+https://agaf.dk/.well-known/security.txt
+
+Contact: mailto:kab@netip.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://detvildt.dk/.well-known/security.txt
+https://hemsoe.dk/.well-known/security.txt
+https://santitia.dk/.well-known/security.txt
+
+Contact: mailto:hemsoe@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://fetimgroup.dk/.well-known/security.txt
+https://tillman.dk/.well-known/security.txt
+
+Contact: mailto:cert-ext@bit.nl
+Expires: 2025-10-01T10:00:00.000Z
+Preferred-Languages: en, nl
+
+----
+
+https://ekton.dk/.well-known/security.txt
+https://vfbv.dk/.well-known/security.txt
+
+Contact: mailto:kn@pbnet.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://gigahost.dk/security.txt
+https://gigaohst.dk/security.txt
+
+Contact: mailto:security@gigahost.dk
+Preferred-Languages: en, da
+
+----
+
+https://antispamcloud.dk/.well-known/security.txt
+https://bregnedalsystems.dk/.well-known/security.txt
+
+Contact: mailto:info@bregnedalsystems.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://juhljacobsen.dk/.well-known/security.txt
+https://juhlrasmussen.dk/.well-known/security.txt
+
+Contact: mailto:nils@juhlrasmussen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://animal-care.dk/.well-known/security.txt
+https://aulebo.dk/.well-known/security.txt
+
+Contact: mailto:jeppe@aulebo.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://flaeskeklubben.dk/security.txt
+https://xn--flskeklubben-7cb.dk/security.txt
+
+Contact: https://www.flaeskeklubben.dk/kontakt/
+Expires: 2025-07-03T21:00:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://www.flaeskeklubben.dk/security.txt
+
+----
+
+https://johannafridell.dk/.well-known/security.txt
+https://youtothemoon.dk/.well-known/security.txt
+
+Contact: mailto:pelle@fridell.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://jandu.dk/.well-known/security.txt
+https://umachanger.dk/.well-known/security.txt
+
+Contact: mailto:mail@umachanger.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://imoodle.dk/security.txt
+https://sffgame.dk/security.txt
+
+Contact: https://moodle.org/security/report/
+Acknowledgments: https://moodle.org/security/
+Preferred-Languages: en
+Canonical: https://moodle.org/.well-known/security.txt
+Policy: https://moodledev.io/general/development/process/security
+Expires: 2023-10-30T01:00:00.000Z
+
+----
+
+https://moenkarate.dk/.well-known/security.txt
+https://moenkarate.dk/security.txt
+
+Contact: mailto:kontakt@moenkarate.dk
+Expires: 2026-06-25T10:00:00.000Z
+Encryption: https://www.moenkarate.dk/kontakt/
+
+----
+
+https://lydsnedkeriet.dk/.well-known/security.txt
+https://xn--ujiuj-oracee4p.dk/.well-known/security.txt
+
+Contact: mailto:ole@kragballe.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://cutedogs.dk/.well-known/security.txt
+https://naturlighelse.dk/.well-known/security.txt
+
+Contact: mailto:vibekesmoric@live.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://gothelf.dk/.well-known/security.txt
+https://mindstir.dk/.well-known/security.txt
+
+Contact: mailto:ulrich@gothelf.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://compu2.dk/.well-known/security.txt
+https://famribe.dk/.well-known/security.txt
+
+Contact: mailto:security@goauthentik.io
+Expires: Mon, 1 Jan 2024 00:00 +0200
+Preferred-Languages: en, de
+Policy: https://goauthentik.io/docs/security/policy
+
+----
+
+https://pentests.dk/.well-known/security.txt
+https://pentests.dk/security.txt
+
+Contact: mailto:secur1ty@spindelnet.dk
+Expires: 2025-06-05T12:23:00.000Z
+Preferred-Languages: en, da
+
+----
+
+https://katlas.dk/.well-known/security.txt
+https://laskat.dk/.well-known/security.txt
+
+Contact: mailto:hsn@katlas.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://billetlugen.dk/.well-known/security.txt
+https://fansale.dk/.well-known/security.txt
+
+Contact: mailto:itsecurity@eventim.de
+Expires: 2030-06-02T22:00:00.000Z
+Preferred-Languages: en, de
+Hiring: https://karriere.eventim.de/en/
+
+----
+
+https://eller.dk/.well-known/security.txt
+https://ellergy.dk/.well-known/security.txt
+
+Contact: mailto:esben_Eller@hotmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://tjm-forsikring.dk/.well-known/security.txt
+https://tryg.dk/.well-known/security.txt
+
+Contact: https://tryg.com/en/responsible-disclosure
+Contact: mailto:irt@tryg.com
+Preferred-Languages: en, da-DK, nb-NO, nn-NO, sv-SE
+Policy: https://tryg.com/en/responsible-disclosure
+Expires: Saturday, 30 Nov 2025 12:00:00 + 0200
+
+----
+
+https://bring.dk/.well-known/security.txt
+https://shelfless.dk/.well-known/security.txt
+
+Contact: mailto:it.sikkerhet@posten.no
+
+----
+
+https://ademco.dk/.well-known/security.txt
+https://ademco.dk/security.txt
+
+Contact: mailto:security@nux.cz
+Contact: mailto:admin@nux.cz
+Expires: 2026-01-01T00:00:00.000Z
+Preferred-Languages: cs, en
+Hiring: https://nux.cz/kariera/
+
+----
+
+https://topdesk-karriere.dk/.well-known/security.txt
+https://topdesk-karriere.dk/security.txt
+
+Contact: security@topdesk.com
+Expires: 2024-01-30T23:00:00.000Z
+Preferred-Languages: en, nl
+Policy: https://www.topdesk.com/en/coordinated-vulnerability-disclosure/
+
+----
+
+https://bangdata.dk/.well-known/security.txt
+https://ebang.dk/.well-known/security.txt
+
+Contact: mailto:michael@ebang.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://betbrothers.dk/.well-known/security.txt
+https://betbrothers.dk/security.txt
+
+Contact: mailto:it@betbrothers.dk
+
+----
+
+https://hack-the-planet.dk/.well-known/security.txt
+https://nixcraft.dk/.well-known/security.txt
+
+Contact: mailto:thomas@edb-konsulenterne.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bkkk.dk/.well-known/security.txt
+https://kjeldsenmail.dk/.well-known/security.txt
+
+Contact: mailto:mortenkjeldsen@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://fixi.dk/.well-known/security.txt
+https://fixi.dk/security.txt
+
+Contact: mailto:mail@magnusdemant.ch
+
+----
+
+https://bernerlab.dk/.well-known/security.txt
+https://bernerlab.dk/security.txt
+
+Contact: mailto:security@generaxion.fi
+Preferred-Languages: fi, en
+Expires: 2025-08-01T00:00:00+00:00
+
+----
+
+https://supersaas.dk/.well-known/security.txt
+
+Contact: mailto:security@supersaas.com
+Preferred-Languages: en
+Canonical: https://www.supersaas.com/.well-known/security.txt
+Policy: https://www.supersaas.com/info/disclosure_policy
+Expires: 2025-12-31T00:00:00Z
+
+----
+
+https://networkforensic.dk/.well-known/security.txt
+
+Contact: mailto:security@networkforensic.dk
+Expires: 2023-01-01T11:00:00.000Z
+Encryption: https://networkforensic.dk/.well-known/gpg-key.txt
+Acknowledgments: https://networkforensic.dk/hall-of-face.html
+Preferred-Languages: en, dk
+Policy: https://networkforensic.dk/security-policy.html
+Hiring: https://networkforensic.dk/jobs.html
+
+----
+
+https://vangs.dk/.well-known/security.txt
+
+Contact: mailto:ken@vangs.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://flightcases.dk/.well-known/security.txt
+
+Contact: mailto:kes@flightcases.dk
+Policy: https://magento.com/security
+
+----
+
+https://laga.dk/.well-known/security.txt
+
+Contact: mailto:rb@laga.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://procolharum.dk/.well-known/security.txt
+
+Contact: mailto:stig@itsibitsi.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://byens-fanklub.dk/.well-known/security.txt
+
+Contact: mailto:webmaster@byens-fanklub.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://danskespil.dk/.well-known/security.txt
+
+Contact: mailto:security@danskespil.dk
+Contact: tel:+45-3672-0011
+Preferred-Languages: en, da
+Encryption: openpgp4fpr:343B1C83821E47B9235E384F1F2D2FCAC295459B
+Expires: 2026-12-01T09:00:00z
+
+----
+
+https://clickwood.dk/security.txt
+
+Contact: mailto:info@registrar-proxy.nl
+Expires: 2025-12-31T23:00:00.000Z
+Preferred-Languages: en, nl
+
+----
+
+https://hydroscand.dk/.well-known/security.txt
+
+Contact: mailto:security@vaimo.com
+Expires: 2025-07-31T07:00:00.000Z
+Preferred-Languages: en
+Hiring: https://careers.vaimo.com/jobs
+Encryption: https://drive.google.com/file/d/1foWgVsfH6yQiCSHBT0tbJ449k9OxO4X-
+
+----
+
+https://martinjoergensen.dk/.well-known/security.txt
+
+Contact: mailto:postmaster@martinjoergensen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://spartoo.dk/.well-known/security.txt
+
+Contact: https://app.yogosha.com/cvd/spartoo/uedVNZEL1nDEaFOlTWY7g
+Contact: mailto:security@spartoo.com
+Expires: 2030-12-31T23:59:59z
+Preferred-Languages: fr, en
+
+----
+
+https://autogespot.dk/.well-known/security.txt
+
+Contact: mailto:security@infrapod.nl
+Expires: 2025-07-19T00:00:01.000Z
+Preferred-Languages: en, nl
+
+----
+
+https://uex.dk/.well-known/security.txt
+
+Contact: https://github.com/fhdk
+Canonical: https://root.nix.dk/.well-known/security.txt
+Preferred-Languages: en, dk
+Expires: 2025-01-01T00:00:00+00:00
+
+----
+
+https://djblaz.dk/.well-known/security.txt
+
+Contact: mailto:claus@light-storm.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://sindb.dk/.well-known/security.txt
+
+Contact: mailto:michael@sindb.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://kvich.dk/.well-known/security.txt
+
+Contact: mailto:thomas@kvich.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://cashbackxl.dk/.well-known/security.txt
+
+Contact: mailto:security@faceworks.nl
+Expires: 2024-12-31T22:59:00.000Z
+Preferred-Languages: nl, en
+Hiring: https://www.faceworks.nl/vacatures
+
+----
+
+https://malerservicenord.dk/.well-known/security.txt
+
+Contact: mailto:darling04@live.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://barebarics.dk/.well-known/security.txt
+
+Contact: mailto:dev+security@belenka.com
+Expires: 2030-12-31T23:00:00.000Z
+Preferred-Languages: en,sk,cz
+Canonical: https://www.belenka.com/.well-known/security.txt
+
+----
+
+https://lablo.dk/.well-known/security.txt
+
+Contact: mailto:info@skrivebeskyttet.dk
+Expires: 2025-12-19T11:00:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://lablo.dk/.well-known/security.txt
+Policy: Check the file integrity and databases
+
+----
+
+https://hr-skyen.dk/.well-known/security.txt
+
+Contact: mailto:developer@hr-on.com
+
+----
+
+https://bregnedal.dk/.well-known/security.txt
+
+Contact: mailto:Christian@Bregnedal.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://feddit.dk/.well-known/security.txt
+
+Contact: https://github.com/LemmyNet/lemmy-ui/security/advisories/new
+  Expires: 2026-04-08T12:54:32.000Z
+
+----
+
+https://eql.dk/.well-known/security.txt
+
+Contact: mailto:dennis@fam-nordahl.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bunknielsen.dk/.well-known/security.txt
+
+Contact: mailto:jacob@bunknielsen.dk
+Expires: 2039-05-22T12:24:00.000Z
+Preferred-Languages: en,dk
+Canonical: https://bunknielsen.dk/.well-known/security.txt
+
+----
+
+https://powerhosting.dk/.well-known/security.txt
+
+Contact: mailto:abuse@powerhosting.dk
+Expires: 2099-02-01T07:00:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://powerhosting.dk/.well-known/security.txt
+#
+# Please do not spam us with trivial X-frame By-Pass "vulnerabilities" 
+# -It is a waste of both yours and ours time! Cheers!
+
+----
+
+https://cybernordic.dk/security.txt
+
+Contact: mailto:support@cybernordic.dk
+Expires: 2030-10-01T21:00:00.000Z
+Preferred-Languages: en,dk
+
+----
+
+https://mailsys.dk/.well-known/security.txt
+
+Contact: mailto:erikh@mailsys.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://inriver.dk/.well-known/security.txt
+
+Contact: mailto:security@inriver.com
+Encryption: https://www.inriver.com/.well-known/publickey.txt
+Preferred-Languages: en
+
+----
+
+https://imasaf.dk/.well-known/security.txt
+
+Contact: mailto:ole@alfasmeden.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://eliaskrause.dk/.well-known/security.txt
+
+Contact: mailto:privat@eliaskrause.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://dreamwall.dk/.well-known/security.txt
+
+Contact: mailto:info@dreamwall.dk
+Encryption: https://dreamwall.dk/pgp-key.txt
+Acknowledgments: https://dreamwall.dk/thanks
+Preferred-Languages: da, en
+
+----
+
+https://rastorp.dk/.well-known/security.txt
+
+Contact: mailto:cecilie@rastorp.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://rubenlysemose.dk/.well-known/security.txt
+
+Contact: mailto:mail@rubenlysemose.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bjjk.dk/.well-known/security.txt
+
+Contact: mailto:br@1q.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://peertube.dk/.well-known/security.txt
+
+Contact: https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md
+Expires: 2025-12-31T11:00:00.000Z'
+
+----
+
+https://beamtic.dk/.well-known/security.txt
+
+Contact: mailto:beamticsupport@beamtic.com
+Expires: 2026-02-01T09:15:00.000Z
+Preferred-Languages: en, da
+
+----
+
+https://h-justesen.dk/.well-known/security.txt
+
+Contact: mailto:lasse@h-justesen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://radioplay.dk/security.txt
+
+Contact: mailto: bug-notification@bauermedia.com
+Policy: https://radioplay.dk/security-policy.txt
+Preferred-Languages: en
+Expires: 2050-12-31T23:59:00.000Z
+
+----
+
+https://mitborgerforslag.dk/.well-known/security.txt
+
+Contact: mailto:security@citizenlab.co
+Expires: 2025-06-01T00:00:00.000Z
+Policy: https://github.com/CitizenLabDotCo/citizenlab/blob/master/SECURITY.md
+
+----
+
+https://photomate.dk/security.txt
+
+Contact: mailto:admin@eclair.cz
+Expires: Fri, 31 Dec 2021 23:59 +0200
+Preferred-Languages: cs, en
+
+----
+
+https://brk.dk/.well-known/security.txt
+
+Contact: mailto:teknikalarm@brk.dk
+Expires: 2025-12-11T01:00:00.000Z
+Preferred-Languages: en, da
+
+----
+
+https://silenceofthetides.dk/.well-known/security.txt
+
+Contact: mailto:|RESELLER_EMAILADDRESS|
+Expires: |EXPIRES|
+
+----
+
+https://veggerbys.dk/.well-known/security.txt
+
+Contact: mailto:claus@veggerbys.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://audipack.dk/.well-known/security.txt
+
+Contact: https://www.websols.nl/contact/
+Expires: 2025-09-09T09:23:04.475Z
+Preferred-Languages: nl,en
+
+----
+
+https://joo.dk/.well-known/security.txt
+
+Contact: mailto:jyde@outlook.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://ioa.dk/.well-known/security.txt
+
+Contact: mailto:kontakt@ioa.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://signavio.dk/.well-known/security.txt
+
+Contact: https://www.sap.com/report-a-vulnerability
+Expires: 2026-01-30T18:29:00.000Z
+
+----
+
+https://iss-haandbold.dk/.well-known/security.txt
+
+Contact: mailto:sanne.holm.kristensen@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://translateit.dk/.well-known/security.txt
+
+Contact: mailto:ksj@johansen.pl
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://i23.dk/.well-known/security.txt
+
+Contact: mailto:jesper@i23.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://hhillebrandt.dk/.well-known/security.txt
+
+Contact: mailto:henriette@hhillebrandt.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://rema1000.dk/.well-known/security.txt
+
+Contact: https://www.rema1000.dk/kontakt/andet
+Expires: +252025-12-31T23:00:00.000Z
+Preferred-Languages: da, en
+Canonical: https://rema1000.dk/.well-known/security.txt
+Hiring: https://job.rema1000.dk
+
+----
+
+https://toplau.dk/.well-known/security.txt
+
+Contact: mailto:bl@toplau.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://finne-larsson.dk/.well-known/security.txt
+
+Contact: mailto:lars@finne-larsson.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://dringridsvej.dk/.well-known/security.txt
+
+Contact: mailto:hjulgaard@dadlnet.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://nhl-data.dk/security.txt
+
+Contact: https://www.nhl-data.dk/kontakt
+Expires: 2026-03-01T19:00:00.000Z
+Preferred-Languages: dk, en
+
+----
+
+https://johanvang.dk/.well-known/security.txt
+
+Contact: mailto:rankenberg88@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://agentoft.dk/.well-known/security.txt
+
+Contact: mailto:webmaster@agentoft.dk
+Expires: 2028-01-02T17:00:00.000Z
+Canonical: https://agentoft.dk/.well-known/security.txt
+
+----
+
+https://danskwebindex.dk/.well-known/security.txt
+
+Contact: mailto:peter@pvangsgaard.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://flathead.dk/.well-known/security.txt
+
+Contact: mailto:klausholm@flathead.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://graphicid.dk/.well-known/security.txt
+
+Contact: mailto:jorgen@graphicid.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://yuri.dk/.well-known/security.txt
+
+Contact: mailto:467196@hjv.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://cxwiki.dk/.well-known/security.txt
+
+Contact: mailto:disclosure@cxplanner.com
+Policy: https://cxwiki.dk/report-an-error
+
+----
+
+https://digitalperformanceteam.dk/.well-known/security.txt
+
+Contact: data-protection@novicell.dk
+
+----
+
+https://denniskamp.dk/.well-known/security.txt
+
+Contact: mailto:den9s@den9s.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://myhood.dk/.well-known/security.txt
+
+Contact: mailto:michael@sb26.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://malmouniversity.dk/security.txt
+
+Contact: mailto:webmaster@mau.se
+Expires: 2027-12-31T22:59:00.000Z
+Preferred-Languages: sv, en
+Canonical: https://mau.se/security.txt
+Hiring: https://mau.se/en/about-us/job-offers/current-vacancies/
+Jobba hos oss: https://mau.se/om-oss/jobba-hos-oss/lediga-jobb/
+
+----
+
+https://agerbo-m.dk/.well-known/security.txt
+
+Contact: mailto:anders@agerbo-m.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://bauhausproffservice.dk/.well-known/security.txt
+
+Contact: mailto:security@vaimo.com
+Encryption: https://drive.google.com/file/d/1foWgVsfH6yQiCSHBT0tbJ449k9OxO4X-
+Hiring: https://careers.vaimo.com/jobs
+Preferred-Languages: en
+
+----
+
+https://xn--d-mrket-oxa.dk/security.txt
+
+Contact: mailto:developer@duckwise.dk
+Expires: 2022-10-01T09:30:00.000Z
+
+----
+
+https://murrelektronik.dk/.well-known/security.txt
+
+Contact: mailto:psirt@murrelektronik.de
+Preferred-Languages: en, de
+Canonical: https://www.murrelektronik.com/.well-known/security.txt
+Policy: https://www.murrelektronik.com/fileadmin/user_upload/Headquarter_en_DE/Pages/Topics/PSIRT/murrelektronik-vulnerability-handling-process.pdf
+Expires: 2026-01-07T12:37:07z
+
+----
+
+https://pomnet.dk/security.txt
+
+Contact: https://tryg.com/en/responsible-disclosure 
+Contact: mailto:irt@tryg.com 
+Preferred-Languages: en, da-DK, nb-NO, nn-NO, sv-SE 
+Policy: https://tryg.com/en/responsible-disclosure 
+Expires: Tue, 30 Nov 2024 12:00:00 +0200
+
+----
+
+https://tamsen.dk/.well-known/security.txt
+
+Contact: mailto:tommy@tamsen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://vestjydsk-webdesign.dk/.well-known/security.txt
+
+Contact: mailto:laust.laursen@live.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://discgolftaastrup.dk/security.txt
+
+Contact: mailto:securitytxt+discgolftaastrup.dk@amite.dk
+Expires: 2026-01-01T15:41:00.000Z
+Preferred-Languages: da, en
+
+----
+
+https://sigtmelding.dk/.well-known/security.txt
+
+Contact: mailto:asgermog@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://falkhjort.dk/.well-known/security.txt
+
+Contact: mailto:dennisfalk@falkhjort.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://xiaomionline.dk/.well-known/security.txt
+
+Contact: mailto:hp@ahj.be
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://iverseninvest.dk/.well-known/security.txt
+
+Contact: mailto:kevin@jkmholding.com
+Expires: 2029-12-31T23:00:00.000Z
+Preferred-Languages: en
+
+----
+
+https://uppsala.dk/.well-known/security.txt
+
+Contact: mailto:henrik@s-r.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://slavianka.dk/.well-known/security.txt
+
+Contact: mailto:karsten@brandt-rasmussen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://aipi.dk/.well-known/security.txt
+
+Contact: mailto:info@aipi.de
+Contact: tel:+49-4401-983910
+Encryption: https://aipi.de/pgp.asc
+Encryption: dns:06271baf49532c879aa3c58b48671884bcc858f09197412d68275049._openpgpkey.aipi.de?type=OPENPGPKEY
+Acknowledgements: https://aipi.de/kontakt.html
+Preferred-Languages: de,en,fr
+
+----
+
+https://rump.dk/.well-known/security.txt
+
+Contact: mailto:abuse@rump.dk
+Expires: 2033-01-01T11:00:00.000Z
+Preferred-Languages: en, da
+Canonical: https://rump.dk/.well-known/security.txt
+
+----
+
+https://beboerforeningendalhusene.dk/.well-known/security.txt
+
+Contact: mailto:beboerforeningendalhusene@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://hkskhf.dk/security.txt
+
+Contact: https://www.hkskhf.dk/kontakt/
+Expires: 2025-07-03T21:00:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://www.hkskhf.dk/security.txt
+
+----
+
+https://sommersjov.dk/.well-known/security.txt
+
+Contact: mailto:klavsen.henrik@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://beatus.dk/.well-known/security.txt
+
+Contact: mailto:john@beatus.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://dmarcian.dk/.well-known/security.txt
+
+Contact: mailto:system-ops@dmarcian.com
+Preferred-Languages: en
+Canonical: https://us.dmarcian.com/.well-known/security.txt
+
+----
+
+https://paravit-cf.dk/security.txt
+
+Contact: https://focusdigital.nl/contact/
+Expires: 2026-12-31T11:00:00.000Z
+Preferred-Languages: en,kr,nl
+Policy: https://focusdigital.nl/responsible-disclosure/
+
+----
+
+https://pawshake.dk/.well-known/security.txt
+
+Contact: mailto:dev@pawshake.com:
+Expires: 2029-12-31T23:00:00.000Z
+Preferred-Languages: en
+
+----
+
+https://suhrsvej28.dk/.well-known/security.txt
+
+Contact: mailto:boxe@live.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://emilstahl.dk/.well-known/security.txt
+
+Contact: mailto:security@emilstahl.dk
+Contact: mailto:emilstahl@protonmail.com
+Contact: https://twitter.com/emilstahl
+Encryption: https://keybase.io/emilstahl/pgp_keys.asc?fingerprint=f25d90d557ae958b6fba7b146cfffe80137cf1ac
+Encryption: https://api.protonmail.ch/pks/lookup?op=get&search=emilstahl@protonmail.com
+Encryption: https://emilstahl.dk/imessage
+Canonical: https://emilstahl.dk/.well-known/security.txt
+
+----
+
+https://thomasberg.dk/.well-known/security.txt
+
+Contact: mailto:mail@thomasberg.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://schule.dk/.well-known/security.txt
+
+Contact: mailto:security@schule.dk
+Expires: 2025-12-31T22:59:00.000Z
+Preferred-Languages: de, en
+
+----
+
+https://viborg.dk/security.txt
+
+Contact: mailto:security_txt1@viborg.dk
+Expires: 2026-01-30T08:00:00.000Z
+Preferred-Languages: en,da
+
+----
+
+https://wd40.dk/.well-known/security.txt
+
+Contact: mailto:support@wtbi.co
+Expires: 2030-01-01T00:00:00.000Z
+
+----
+
+https://team.dk/security.txt
+
+Contact: mailto:support@escapecloud.net
+Expires: 2025-01-01T22:00:00.000Z
+Preferred-Languages: da, en
+
+----
+
+https://betta.dk/.well-known/security.txt
+
+Contact: mailto:gw@betta.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://zebs.dk/security.txt
+
+Contact: mailto:ryan+sec@zebs.dk
+Expires: 2026-03-31T22:00:00.000Z
+Preferred-Languages: da, en
+
+----
+
+https://struersejlklub.dk/.well-known/security.txt
+
+Contact: mailto:webmaster@struersejlklub.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://shgroup.dk/security.txt
+
+Contact: mailto:security@shgroup.dk
+Expires: 2030-05-17T11:00:00.000Z
+Preferred-Languages: en, dk
+
+----
+
+https://haveforeningen-enghaven.dk/.well-known/security.txt
+
+Contact: mailto:wall@clanzone.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://manscher.dk/.well-known/security.txt
+
+Contact: mailto:martinmanscher@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://dpintern.dk/security.txt
+
+Contact: mailto:security@akeneo.com
+
+----
+
+https://trisa.dk/.well-known/security.txt
+
+Contact: mailto:security@instride.ch
+Expires: 2025-12-31T00:00:00+01:00
+Preferred-Languages: en, de
+Canonical: https://instride.ch/.well-known/security.txt
+
+----
+
+https://hundevenner.dk/.well-known/security.txt
+
+Contact: mailto:martin@hundevenner.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://kbsmail.dk/.well-known/security.txt
+
+Contact: mailto:kim@grippo.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://larsnielsen.dk/.well-known/security.txt
+
+Contact: mailto:lars@larsnielsen.dk
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://larsnielsen.dk/pgp-key.txt
+Preferred-Languages: da, en
+Canonical: https://larsnielsen.dk/.well-known/security.txt
+
+----
+
+https://ahrendt.dk/.well-known/security.txt
+
+Contact: mailto:michael@ahrendt.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://dandomain.dk/.well-known/security.txt
+
+Contact: mailto:security@dandomain.dk
+
+----
+
+https://exitium.dk/.well-known/security.txt
+
+Contact: mailto:query@exitium.dk
+Expires: 2022-04-30T22:01:00.000Z
+Preferred-Languages: en, da
+Canonical: https://exitium.dk/.well-known/security.txt
+
+----
+
+https://ta1.dk/security.txt
+
+Contact: hello@ta1.dk
+Expires: 2025-09-27T00:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/3285D66C1E57B89EE4BE86C6025CFDF61C7D734E
+Preferred-Languages: da
+Canonical: https://ta1.dk/security.txt
+
+----
+
+https://kliklik.dk/.well-known/security.txt
+
+Contact: mailto:hamid@kliklik.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://lasserasmussen.dk/.well-known/security.txt
+
+Contact: mailto:lasse1972@gmail.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://wedos.dk/.well-known/security.txt
+
+Contact: https://wedos.com/contacts/
+Expires: 2025-12-31T23:59:59Z
+Policy: https://wedos.com/security-policy
+Acknowledgements: https://wedos.com/hall-of-fame
+
+----
+
+https://schumi.dk/.well-known/security.txt
+
+Contact: mailto:jan@schumi.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://tractorexport.dk/.well-known/security.txt
+
+Contact: mailto:us@usimport.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://hbay.dk/.well-known/security.txt
+
+Contact: mailto:bay@hbay.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://tjahh.dk/.well-known/security.txt
+
+Contact: mailto:morten@tjahh.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://vibse.dk/.well-known/security.txt
+
+Contact: mailto:emil.larsen@bbsyd.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://hestegrovvaren.dk/.well-known/security.txt
+
+Contact: mailto:security@hestegrovvaren.dk
+Contact: https://www.facebook.com/HesteGrovvaren
+Preferred-Languages: da, en
+
+Canonical: https://hestegrovvaren.dk/.well-known/security.txt
+
+Expires: 2025-08-19T00:00:00.000Z
+
+----
+
+https://kcert.dk/.well-known/security.txt
+
+Contact: mailto:info@kcert.dk
+Expires: 2030-01-01T11:00:00.000Z
+Encryption: https://kcert.dk/KCERT_8FDBEEAD_PUBLIC.asc
+Preferred-Languages: dk, en, de
+Canonical: https://kcert.dk/.well-known/security.txt
+
+----
+
+https://dnb.dk/.well-known/security.txt
+
+Contact: mailto:irt@dnb.no
+Expires: 2031-12-31T23:00:00.000Z
+
+----
+
+https://stress-fri-zone.dk/.well-known/security.txt
+
+Contact: mailto:farmer@0149.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://martinfiltenborg.dk/.well-known/security.txt
+
+Contact: mailto:martin@martinfiltenborg.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://syngre.dk/.well-known/security.txt
+
+Contact: mailto:security@syngre.dk
+Expires: 2025-11-19T22:59:00.000Z
+Preferred-Languages: en, dk
+Canonical: https://syngre.dk/.well-known/security.txt
+
+----
+
+https://publyon.dk/.well-known/security.txt
+
+Contact: mailto:info@publyon.com
+Expires: 2024-03-22T11:00:00.000Z
+Preferred-Languages: nl, en
+Policy: https://publyon.com/privacy-policy/
+
+----
+
+https://certaintelligence.dk/security.txt
+
+Contact: technical@certaintelligence.com
+Contact: https://certaintelligence.com/en/contact-us/
+
+----
+
+https://kea.dk/.well-known/security.txt
+
+Contact: mailto:gdpr@kea.dk
+Contact: mailto:webmaster@kea.dk
+Expires: 2025-06-30T23:59:00.000Z
+Hiring: https://kea.career.emply.com/da/ledige-stillinger
+
+----
+
+https://jobsintown.dk/.well-known/security.txt
+
+Contact: mailto:bleek@cross-solution.de
+Expires: 2024-12-31T22:59:00.000Z
+Preferred-Languages: de, en
+Canonical: https://jobsintown.de/.well-known/security.txt
+
+----
+
+https://birckwolff.dk/.well-known/security.txt
+
+Contact: mailto:mail@carstenwolff.com
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://stienpedersen.dk/.well-known/security.txt
+
+Contact: mailto:David@stienPedersen.dk
+Expires: 2025-07-19T00:00:00Z
+
+----
+
+https://vsec.dk/.well-known/security.txt
+
+Contact: mailto:info@vsec.dk
+Expires: 2025-12-31T00:00:00.000Z
+Encryption: Shared on request
+Acknowledgments: https://vsec.dk/contributing/#valuable-community-contributors
+Preferred-Languages: da, en
+Canonical: https://vsec.dk/.well-known/security.txt
+Policy: Contact us by e-mail or mention @VSecDK on Twitter if security issues is found
+Hiring: N/A
+
+----
+
+https://kompasbank.dk/.well-known/security.txt
+
+Contact: mailto:tech-admin@kompasbank.dk
+Expires: 2030-12-31T00:00:00.000Z
+Preferred-Languages: en-US da-DK
+Canonical: https://kompasbank.dk/da/.well-known/security.txt
+Policy: https://kompasbank.dk/da/jura
+Hiring: https://kompasbank.dk/da/om-kompasbank/job-og-karriere
