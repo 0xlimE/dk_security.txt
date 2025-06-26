@@ -1,7 +1,7 @@
 
 # Analysis of security.txt adoption from .dk domains
 
-    Update 26/06/25 - I added some extra checks for people not strictly following RFC 9116, this added a bunch more domains. This upped the amount of security.txt's found on .dk domains from 1413 to 2746
+**Update 26/06/25 - I added some extra checks for people not strictly following RFC 9116, this added a bunch more domains. This upped the amount of security.txt's found on .dk domains from 1413 to 2746**
 
 Security.txt files provide a standardized way for organizations to communicate their vulnerability disclosure process to security researchers. As defined in RFC 9116, these files should be accessible at either /security.txt or /.well-known/security.txt.
 
